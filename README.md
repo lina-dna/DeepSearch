@@ -1,62 +1,52 @@
 ## Daily News Monitoring 
 
-2021-07-09 
+2021-07-10 
 
 ----------
 
 *[ESG 소식]*
 
-1. 롯데칠성음료, 대한민국 환경대상 '자원순환'부문 대상 수상 ([Link](https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=101&oid=076&aid=0003752722))
-
-2. KB캐피탈, 원화 'ESG 채권' 3000억원 발행 ([Link](https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=101&oid=003&aid=0010597491))
-
-3. 중소벤처기업 ESG 간담회 ([Link](https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=101&oid=421&aid=0005467033))
-
-4. 권칠승 장관 “중소기업도 ESG 인식개선 필요…인센티브 적극 도입” ([Link](https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=101&oid=082&aid=0001105462))
-
-5. SK종합화학, 축구장 22개 크기 '폐플라스틱 재활용 공장' 짓는다(종합) ([Link](https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=101&oid=003&aid=0010597461))
+1. 에이피알(APR), 세계 최초 친환경 콩 원료로 모근 강화 샴푸 출시 ([Link](https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=101&oid=011&aid=0003934765))
 
 ----------
 
 *[금융 소식]*
 
-1. “K-배터리 울산이 주도”…‘산업화센터’ 조성 ([Link](https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=101&oid=056&aid=0011079524))
+1. 뉴욕증시, 낙폭 과대에 하루 만에 반등 출발 ([Link](https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=101&oid=001&aid=0012516168))
 
-2. 델타변이에 경기둔화 우려…美증시 하락 출발 ([Link](https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=101&oid=005&aid=0001454964))
+2. '수사정보 유출 의혹' 현직 검사, 대법서 무죄 확정 ([Link](https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=422&aid=0000494162))
 
-3. 北피살 공무원 형 "김정은에 편지…사고현장 방문 간청했다" ([Link](https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=100&oid=025&aid=0003116794))
-
-4. 코로나 변이 바이러스 우려에 뉴욕증시 1% 이상 하락한 채 거래 ([Link](https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=101&oid=023&aid=0003625441))
-
-5. LG "국내를 배터리 R&D 메카로 만든다"…10년간 15조 투자(종합) ([Link](https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=101&oid=003&aid=0010597510))
-
-6. 중국 "알리바바 앤트그룹만 독점 아냐…다른 곳도 조치" ([Link](https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=104&oid=001&aid=0012513993))
-
-----------
-
-*[당사 소식]*
-
-1. 코로나 4차 대유행 우려되는데… '무늬만 백신보험' 논란 가열 ([Link](https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=101&oid=417&aid=0000712748))
+3. 원자재 가격 급등에 中 지준율 0.5%P 인하…177조원 유동성 확보 ([Link](https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=104&oid=469&aid=0000616374))
 
 ----------
 
 *[보험 소식]*
 
-1. 뉴욕증시, 경기둔화 우려 부상에 하락 출발 ([Link](https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=101&oid=001&aid=0012513985))
+1. 50톤 철판에 깔려 숨졌는데…“산업재해 아니다” ([Link](https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=056&aid=0011080266))
 
-2. 미국 주간실업 신청, 0.2만명 늘어 37.3만…코로나 전의 160% ([Link](https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=104&oid=003&aid=0010597494))
+2. AXA손보, 차보험 부문 '국가서비스대상' 2년 연속 수상 ([Link](https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=004&oid=003&aid=0010599401))
 
-3. 앉았다 일어나니 '핑', 여름엔 '기립성 어지럼증' 주의 ([Link](https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=103&oid=346&aid=0000042340))
+3. 대덕구 요양원 13명 등 대전·세종·충남 70명 신규 확진 ([Link](https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=056&aid=0011080173))
+
+4. 델타 변이가 관건…“가벼운 증상 흔히 발현·해외 유입의 80%” ([Link](https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=056&aid=0011080162))
+
+5. 검찰 "조국 딸 '부산대엔 특혜 많아' 언급…장학금은 특혜" ([Link](https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=079&aid=0003526527))
+
+6. 코로나 실업자 1억명… 감당 못할 속도로 일자리가 사라졌다 ([Link](https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=104&oid=023&aid=0003625713))
+
+7. 오후 9시 1202명 전날보다 15명 늘어…최고치 또 경신할듯(종합2) ([Link](https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=421&aid=0005469176))
+
+8. "성과급도 임금" 판결 잇따라…임금 체계 바뀌나 ([Link](https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=101&oid=055&aid=0000906297))
+
+9. 요양병원 입원비 지급 놓고 분쟁 벌인 삼성생명, 암환자 모임과 합의 ([Link](https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=101&oid=081&aid=0003200551))
 
 ----------
 
 *[업계 소식]*
 
-1. 삼성·한화·메리츠 등 6개사…의료데이터 활용 길 열렸다 ([Link](https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=101&oid=009&aid=0004821410))
+1. 삼성생명, 보암모와 협상 타결…"협상 내용 비공개" ([Link](https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=101&oid=018&aid=0004980243))
 
-2. 삼성생명 등 6곳, 공공의료 데이터 활용 가능 ([Link](https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=101&oid=015&aid=0004575145))
+2. [모멘트] '승리'라고 쓰기까지 ([Link](https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=001&aid=0012515905))
 
-3. 서울 송현동 공원 개발 변수로 떠오른 '이건희 기증관' ([Link](https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=011&aid=0003934248))
-
-4. "금융 우량고객, 이제 보험·카드사로 간다" ([Link](https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=101&oid=215&aid=0000970443))
+3. 삼성생명, 암환자 모임과 18개월 만에 시위 중단 합의 ([Link](https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=101&oid=215&aid=0000970701))
 
