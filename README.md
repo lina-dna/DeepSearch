@@ -1,38 +1,40 @@
 ## Daily News Monitoring 
 
-2021-07-13 
+2021-07-14 
 
 ----------
 
 *[ESG 소식]*
 
-1. 공모전 열고 가상점포 구상…‘메타버스 실험’ 나선 금융권 ([Link](https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=101&oid=032&aid=0003085044))
+1. ‘위기의 롯데’ 돌파구는 모빌리티·메타버스? ‘스타트업 롯데’ 대변신 ([Link](https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=101&oid=024&aid=0000069623))
 
-2. "2050 탄소중립" 의지보인 한국남동발전…탄소중립추진위원회 개최 ([Link](https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=079&aid=0003527219))
+2. "미래는 수소다"…롯데케미칼, 10년간 4.4조 투자·매출 3조 목표(종합) ([Link](https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=101&oid=003&aid=0010605693))
 
-3. [미리보는 이데일리신문]전셋값 올린 ‘규제의 역설’ 뒤늦게 바로잡아 ([Link](https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=101&oid=018&aid=0004982885))
+3. 아바타 은행장이 말했다 “어서 타, 메타버스” ([Link](https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=101&oid=023&aid=0003626525))
+
+4. [미리보는 이데일리 신문]“방역 희생 대가가 최저임금 인상인가요” ([Link](https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=100&oid=018&aid=0004983833))
 
 ----------
 
 *[금융 소식]*
 
-1. 송영길 ‘전국민 재난지원금 지급’ 전격 합의...이재명 힘받을까? 이 지사 “백신처럼 기쁜 소식” ([Link](https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=100&oid=022&aid=0003599520))
+1. 4~6월 JP모건 순익 13.6조원..."경기회복에 2.5배 급증" ([Link](https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=104&oid=003&aid=0010605777))
 
-2. 커피 수요 치솟았는데 기록적 가뭄…국제 원두값 상승 ([Link](https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=104&oid=001&aid=0012520417))
+2. [기고] 제8대 서산시의회 마지막 행정사무감사를 마치며 ([Link](https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=002&aid=0002199696))
 
-3. [강호원칼럼] 눈을 부릅뜨고 역사를 보라 ([Link](https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=110&oid=022&aid=0003599527))
+3. 美 6월 소비자물가 상승률 5.4%…2008년 이후 최대폭 ([Link](https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=104&oid=016&aid=0001861001))
 
 ----------
 
 *[보험 소식]*
 
-1. MBN[토요포커스] 이우용 한국데이터산업협회 부회장 "미래 산업의 중심, 빅데이터를 말하다" ([Link](https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=101&oid=057&aid=0001592307))
+1. 윤석열 장모 의혹 국회서도 논란… 與 “국민 혈세 줄줄 새, 심각한 범죄” 질타 ([Link](https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=100&oid=022&aid=0003599902))
 
-2. MBN[토요포커스] 이우용 한국데이터산업협회 부회장 "미래 산업의 중심, 빅데이터를 말하다" ([Link](https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=101&oid=057&aid=0001592303))
+2. ‘노조 가입 놓고 갈등’ 열흘 넘게 배송 차질 ([Link](https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=056&aid=0011082255))
 
-----------
+3. 신한라이프 이어 KB손보도 헬스케어 자회사 추진 ([Link](https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=101&oid=119&aid=0002510891))
 
-*[업계 소식]*
+4. 최저임금 인상에… 외식협회 “자영업자 파탄 이어질 것” · 편의점주들 “주고 싶어도 못 줘” ([Link](https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=022&aid=0003599903))
 
-1. 생명보험재단, '제10회 인구의 날' 대통령 표창 수상 ([Link](https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=004&oid=003&aid=0010603154))
+5. 정부, 대기업 집단 계열 금융사 감독 강화 ([Link](https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=101&oid=032&aid=0003085308))
 
