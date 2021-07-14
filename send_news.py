@@ -36,10 +36,10 @@ index_name = 'dailynews-naver'
 #index_name = 'test_crawler'
 
 # kst
-# target_day = datetime.date.today() - datetime.timedelta(days=1)
+yester_day = datetime.date.today() - datetime.timedelta(days=1)
 # utc
-target_day = datetime.date.today()
-target_day = target_day.strftime('%Y-%m-%d')
+#yester_day = datetime.date.today()
+target_day = yester_day.strftime('%Y-%m-%d')
 webhook_url = os.getenv('WEBHOOK')
 
 issue_day = datetime.date.today() + datetime.timedelta(days=1)
@@ -57,7 +57,7 @@ query = '''
       "작성일시": "%s"
     }
   },
-  "_source": ["토픽", "제목", "URL"]
+  "_source": ["토픽", "제목", "URL", "댓글수"]
 }
 ''' % (target_day)
 
@@ -82,7 +82,8 @@ for i in range(len(res['hits']['hits'])):
     temp_topic = res['hits']['hits'][i]['_source']['토픽']
     title = res['hits']['hits'][i]['_source']['제목']
     url = res['hits']['hits'][i]['_source']['URL']
-    
+    n_com = res['hits']['hits'][i]['_source']['댓글수']
+
     if temp_topic == '삼성생명':
         temp_topic = '업계'
     elif temp_topic == '라이나생명':
@@ -95,7 +96,7 @@ for i in range(len(res['hits']['hits'])):
         topic_section = {'type':'section', 'text': {'type':'mrkdwn','text':f"*[{topic} 소식]*"}}
         webhook_payload['blocks'].append(topic_section)
         
-    news_section = {'type':'section', 'text' :{'type':'mrkdwn', 'text': f"{j}. {title} (<{url}|Link>)"}}
+    news_section = {'type':'section', 'text' :{'type':'mrkdwn', 'text': f"{j}. {title} [{n_com}] (<{url}|Link>) "}}
     webhook_payload['blocks'].append(news_section)
     
 requests.post(url=webhook_url, json=webhook_payload)
@@ -123,7 +124,7 @@ for i in range(len(res['hits']['hits'])):
         upload_contents += "----------\n\n"
         j=1
         upload_contents += f"*[{topic} 소식]*\n\n"
-    upload_contents += f"{j}. {title} ([Link]({url}))\n\n"
+    upload_contents += f"{j}. {title} [{n_com}] ([Link]({url}))\n\n"
     
     
 # os.environ["UPLOAD_CONTENTS"] = upload_contents
