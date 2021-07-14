@@ -115,7 +115,7 @@ for i in range(len(res['hits']['hits'])):
     temp_topic = res['hits']['hits'][i]['_source']['토픽']
     title = res['hits']['hits'][i]['_source']['제목']
     url = res['hits']['hits'][i]['_source']['URL']
-    n_com = res['hits']['hits'][i]['_source']['URL']
+    n_com = res['hits']['hits'][i]['_source']['댓글수']
     if temp_topic == '삼성생명':
         temp_topic = '업계'
     elif temp_topic == '라이나생명':
