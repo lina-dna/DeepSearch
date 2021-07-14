@@ -99,7 +99,7 @@ for i in range(len(res['hits']['hits'])):
     news_section = {'type':'section', 'text' :{'type':'mrkdwn', 'text': f"{j}. {title} [{n_com}] (<{url}|Link>) "}}
     webhook_payload['blocks'].append(news_section)
     
-requests.post(url=webhook_url, json=webhook_payload)
+#requests.post(url=webhook_url, json=webhook_payload)
 
 
 #github readme
@@ -115,6 +115,7 @@ for i in range(len(res['hits']['hits'])):
     temp_topic = res['hits']['hits'][i]['_source']['토픽']
     title = res['hits']['hits'][i]['_source']['제목']
     url = res['hits']['hits'][i]['_source']['URL']
+    n_com = res['hits']['hits'][i]['_source']['URL']
     if temp_topic == '삼성생명':
         temp_topic = '업계'
     elif temp_topic == '라이나생명':
