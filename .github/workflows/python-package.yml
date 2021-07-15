@@ -20,12 +20,12 @@ jobs:
       uses: actions/setup-python@v2
       with:
         python-version: 3.7
-    - name: Install chrome
-      run: |
-        sudo apt-get install unzip chromium-browser
-        sudo wget https://chromedriver.storage.googleapis.com/91.0.4472.101/chromedriver_linux64.zip
-        sudo unzip -o chromedriver_linux64.zip
-        sudo chmod +x chromedriver
+#     - name: Install chrome
+#       run: |
+#         sudo apt-get install unzip chromium-browser
+#         sudo wget https://chromedriver.storage.googleapis.com/91.0.4472.101/chromedriver_linux64.zip
+#         sudo unzip -o chromedriver_linux64.zip
+#         sudo chmod +x chromedriver
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
