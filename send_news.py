@@ -5,7 +5,8 @@ import sys, os
 sys.path.append(os.path.dirname(os.path.abspath(os.path.dirname('DeepSearch'))))
 from connector import es_connector
 from github import Github
-
+from wordcloud import WordCloud
+import matplotlib.pyplot as plt 
 
 def get_github_repo(access_token, user_name, repository_name):
     """
@@ -36,13 +37,13 @@ index_name = 'dailynews-naver'
 #index_name = 'test_crawler'
 
 # kst
-#yester_day = datetime.date.today() - datetime.timedelta(days=1)
+yester_day = datetime.date.today() - datetime.timedelta(days=1)
 # utc
-yester_day = datetime.date.today()
+#yester_day = datetime.date.today()
 target_day = yester_day.strftime('%Y-%m-%d')
 webhook_url = os.getenv('WEBHOOK')
 
-issue_day = datetime.date.today() + datetime.timedelta(days=1)
+issue_date = datetime.date.today() + datetime.timedelta(days=1)
 
 query = '''
 {"sort": [
@@ -57,7 +58,7 @@ query = '''
       "작성일시": "%s"
     }
   },
-  "_source": ["토픽", "제목", "URL", "댓글수"]
+  "_source": ["토픽", "제목", "URL", "본문", "댓글수"]
 }
 ''' % (target_day)
 
@@ -67,7 +68,7 @@ res = es.searchFilter(index = index_name, body = query)
 # slack webhook
 
 webhook_payload = {'text':'Daily News Monitoring', 'blocks':[]}
-info_section = {'type':'section', 'text': {'type':'mrkdwn','text':f"{issue_day}"}}
+info_section = {'type':'section', 'text': {'type':'mrkdwn','text':f"{issue_date}"}}
 divider_section = {'type':'divider'}
 webhook_payload['blocks'].append(info_section)
 webhook_payload['blocks'].append(divider_section)
@@ -99,13 +100,13 @@ for i in range(len(res['hits']['hits'])):
     news_section = {'type':'section', 'text' :{'type':'mrkdwn', 'text': f"{j}. {title} [{n_com}] (<{url}|Link>) "}}
     webhook_payload['blocks'].append(news_section)
     
-requests.post(url=webhook_url, json=webhook_payload)
+#requests.post(url=webhook_url, json=webhook_payload)
 
 
 #github readme
 
 upload_contents = '## Daily News Monitoring \n\n'
-upload_contents += f"{issue_day} \n\n"
+upload_contents += f"{issue_date} \n\n"
 upload_contents += "----------\n\n"
 topic = res['hits']['hits'][0]['_source']['토픽']
 upload_contents += f"*[{topic} 소식]*\n\n"
@@ -132,7 +133,7 @@ for i in range(len(res['hits']['hits'])):
 
 # generate result as github issue
 issue_title = (
-    f"{issue_day} Daily News Monitoring"
+    f"{issue_date} Daily News Monitoring"
 )
 access_token = os.getenv('FULL_ACCESS_TOKEN')
 user_name = "lina-dna"
@@ -144,3 +145,38 @@ print("Upload Github Issue Success!")
 
 with open("README.md", "w") as readmeFile:
     readmeFile.write(upload_contents)
+
+
+# word cloud
+
+tagging_url = os.getenv('SEQUENCE_TAGGING')
+pos_url = tagging_url + 'sequence_tagging/pos/'
+
+def get_nouns(body: str):
+    nouns = [word[0] for word in requests.get(pos_url + f"{body}").json() if word[1] == 'NNG']
+    return nouns
+
+nouns_list = []
+for i in range(len(res['hits']['hits'])):
+    body = res['hits']['hits'][i]['_source']['본문']
+    split_body = body.split('\n')
+    split_body = list(filter(None, split_body))
+    nouns_list += (list(map(lambda x : get_nouns(x),split_body)))
+nouns_list = list(map(' '.join, nouns_list))
+nouns_list = ' '.join(nouns_list
+
+f = open("./etc/stopwords_korean.txt", "rt", encoding="utf-8")
+lines = f.readlines()
+stop_words = []
+for line in lines:
+    line = line.replace('\n', '')
+    stop_words.append(line)
+                    
+font_path = "./etc/NanumGothic.ttf"
+wordcloud = WordCloud(font_path=font_path, background_color='white', colormap='winter', stopwords=stop_words).generate(nouns_list)
+
+plt.figure(figsize=(22,22))
+plt.imshow(wordcloud, interpolation='lanczos')
+plt.axis('off')
+plt.savefig(f'{issue_date} word cloud.png')
+plt.show()

@@ -3,13 +3,13 @@
 
 name: News Crawler
 
-on:
-  schedule:
-     - cron:  '0 22 * * *'
-
 #on:
-        #  push:
-          #    branches: comments
+#  schedule:
+#     - cron:  '0 22 * * *'
+
+on:
+  push:
+    branches: word_cloud
       
 jobs:
   build:
@@ -40,6 +40,7 @@ jobs:
       working-directory: ./crawler
     - name: Run sending news
       env:
+          SEQUENCE_TAGGING: ${{ secrets.SEQUENCE_TAGGING  }}
           FULL_ACCESS_TOKEN: ${{ secrets.FULL_ACCESS_TOKEN  }}
           ES_HOSTS: ${{ secrets.ES_HOSTS }}
           ES_ID: ${{ secrets.ES_ID }}

@@ -20,7 +20,7 @@ chrome_options = webdriver.ChromeOptions()
 chrome_options.add_argument("--headless")
 chrome_options.add_argument("--no-sandbox")
 chrome_options.add_argument("--disable-dev-shm-usage")
-driver = webdriver.Chrome("chromedriver", options = chrome_options)
+driver = webdriver.Chrome("./etc/chromedriver", options = chrome_options)
 
 # 기간 설정
 today = datetime.datetime.now()
@@ -57,9 +57,8 @@ for i in range(len(article_url_df)):
         article_dict = Get_Article_Body(article_url_df['url'][i],driver)
         article_dict['토픽'] = article_url_df['search_keyword'][i]
         #print(article_dict)
-        es.dataInsert(index=index_name, data=article_dict)
-        #reply_df = ariticle_reply()
-        #reply_dfs.append(reply_df)
+        #es.dataInsert(index=index_name, data=article_dict)
+
     except:
         continue
 
