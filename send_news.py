@@ -177,8 +177,8 @@ for line in lines:
 font_path = "etc/NanumGothic.ttf"
 wordcloud = WordCloud(font_path=font_path, background_color='white', colormap='winter', stopwords=stop_words).generate(nouns_list)
 
-plt.figure(figsize=(22,22))
+plt.figure(figsize=(10,10))
 plt.imshow(wordcloud, interpolation='lanczos')
 plt.axis('off')
-plt.savefig(f'{issue_date} word cloud.png')
+plt.savefig(f'{issue_date}_word_cloud.png')
 plt.show()
