@@ -4,7 +4,9 @@
 
 ----------
 
-![word_cloud](image/2021-07-16_word_cloud.png)----------
+![word_cloud](image/2021-07-16_word_cloud.png)
+
+----------
 
 *[ESG 소식]*
 
