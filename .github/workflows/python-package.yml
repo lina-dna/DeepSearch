@@ -7,9 +7,9 @@ on:
  schedule:
     - cron:  '0 22 * * *'
 
-# on:
-#   push:
-#     branches: word_cloud
+on:
+  push:
+    branches: main
       
 jobs:
   build:
