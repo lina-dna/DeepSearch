@@ -4,6 +4,8 @@
 
 ----------
 
+----------
+
 *[ESG 소식]*
 
 1. LG화학 ‘신성장’에 10조 쓴다 [3] ([Link](https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=101&oid=032&aid=0003085567))
