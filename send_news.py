@@ -101,51 +101,7 @@ for i in range(len(res['hits']['hits'])):
     webhook_payload['blocks'].append(news_section)
     
 #requests.post(url=webhook_url, json=webhook_payload)
-
-
-#github readme
-
-upload_contents = '## Daily News Monitoring \n\n'
-upload_contents += f"{issue_date} \n\n"
-upload_contents += "----------\n\n"
-topic = res['hits']['hits'][0]['_source']['토픽']
-upload_contents += f"*[{topic} 소식]*\n\n"
-j=0
-for i in range(len(res['hits']['hits'])):
-    j += 1
-    temp_topic = res['hits']['hits'][i]['_source']['토픽']
-    title = res['hits']['hits'][i]['_source']['제목']
-    url = res['hits']['hits'][i]['_source']['URL']
-    n_com = res['hits']['hits'][i]['_source']['댓글수']
-    if temp_topic == '삼성생명':
-        temp_topic = '업계'
-    elif temp_topic == '라이나생명':
-        temp_topic = '당사'
-    if topic != temp_topic:
-        topic = temp_topic
-        upload_contents += "----------\n\n"
-        j=1
-        upload_contents += f"*[{topic} 소식]*\n\n"
-    upload_contents += f"{j}. {title} [{n_com}] ([Link]({url}))\n\n"
     
-    
-# os.environ["UPLOAD_CONTENTS"] = upload_contents
-
-# generate result as github issue
-issue_title = (
-    f"{issue_date} Daily News Monitoring"
-)
-access_token = os.getenv('FULL_ACCESS_TOKEN')
-user_name = "lina-dna"
-repository_name = "DeepSearch"
-
-repo = get_github_repo(access_token,user_name,repository_name)
-upload_github_issue(repo, issue_title, upload_contents)
-print("Upload Github Issue Success!")
-
-with open("README.md", "w") as readmeFile:
-    readmeFile.write(upload_contents)
-
 
 # word cloud
 
@@ -166,7 +122,6 @@ for i in range(len(res['hits']['hits'])):
 nouns_list = list(map(' '.join, nouns_list))
 nouns_list = ' '.join(nouns_list)
                      
-
 f = open("etc/stopwords_korean.txt", "rt", encoding="utf-8")
 lines = f.readlines()
 stop_words = []
@@ -180,5 +135,48 @@ wordcloud = WordCloud(font_path=font_path, background_color='white', colormap='w
 plt.figure(figsize=(10,10))
 plt.imshow(wordcloud, interpolation='lanczos')
 plt.axis('off')
-plt.savefig(f'{issue_date}_word_cloud.png')
-plt.show()
+plt.savefig(f'image/{issue_date}_word_cloud.png')
+
+
+
+#github readme
+
+upload_contents = '## Daily News Monitoring \n\n'
+upload_contents += f"{issue_date} \n\n"
+upload_contents += "----------\n\n"
+upload_contents += f"![word_cloud](image/{issue_date}_word_cloud.png)"
+upload_contents += "----------\n\n"
+topic = res['hits']['hits'][0]['_source']['토픽']
+upload_contents += f"*[{topic} 소식]*\n\n"
+j=0
+for i in range(len(res['hits']['hits'])):
+    j += 1
+    temp_topic = res['hits']['hits'][i]['_source']['토픽']
+    title = res['hits']['hits'][i]['_source']['제목']
+    url = res['hits']['hits'][i]['_source']['URL']
+    n_com = res['hits']['hits'][i]['_source']['댓글수']
+    if temp_topic == '삼성생명':
+        temp_topic = '업계'
+    elif temp_topic == '라이나생명':
+        temp_topic = '당사'
+    if topic != temp_topic:
+        topic = temp_topic
+        upload_contents += "----------\n\n"
+        j=1
+        upload_contents += f"*[{topic} 소식]*\n\n"
+    upload_contents += f"{j}. {title} [{n_com}] ([Link]({url}))\n\n"
+
+# generate result as github issue
+issue_title = (
+    f"{issue_date} Daily News Monitoring"
+)
+access_token = os.getenv('FULL_ACCESS_TOKEN')
+user_name = "lina-dna"
+repository_name = "DeepSearch"
+
+repo = get_github_repo(access_token,user_name,repository_name)
+upload_github_issue(repo, issue_title, upload_contents)
+print("Upload Github Issue Success!")
+
+with open("README.md", "w") as readmeFile:
+    readmeFile.write(upload_contents)
