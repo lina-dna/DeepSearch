@@ -145,7 +145,7 @@ plt.savefig(f'image/{issue_date}_word_cloud.png')
 upload_contents = '## Daily News Monitoring \n\n'
 upload_contents += f"{issue_date} \n\n"
 upload_contents += "----------\n\n"
-upload_contents += f"![word_cloud](image/{issue_date}_word_cloud.png)"
+upload_contents += f"![word_cloud](image/{issue_date}_word_cloud.png)\n\n"
 upload_contents += "----------\n\n"
 topic = res['hits']['hits'][0]['_source']['토픽']
 upload_contents += f"*[{topic} 소식]*\n\n"
