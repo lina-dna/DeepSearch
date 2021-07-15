@@ -131,8 +131,6 @@ for line in lines:
                     
 font_path = "etc/NanumGothic.ttf"
 wordcloud = WordCloud(font_path=font_path, background_color='white', colormap='winter', stopwords=stop_words).generate(nouns_list)
-
-#plt.figure(figsize=(10,10))
 plt.imshow(wordcloud, interpolation='lanczos')
 plt.axis('off')
 plt.savefig(f'image/{issue_date}_word_cloud.png')
@@ -145,6 +143,7 @@ plt.savefig(f'image/{issue_date}_word_cloud.png')
 upload_contents = '## Daily News Monitoring \n\n'
 upload_contents += f"{issue_date} \n\n"
 upload_contents += "----------\n\n"
+upload_contents += '### Daily Hot Keywords \n\n'
 upload_contents += f"![word_cloud](image/{issue_date}_word_cloud.png)\n\n"
 upload_contents += "----------\n\n"
 topic = res['hits']['hits'][0]['_source']['토픽']
