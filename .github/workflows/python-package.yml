@@ -7,9 +7,9 @@ name: News Crawler
 #  schedule:
 #     - cron:  '0 22 * * *'
 
-# on:
-#   push:
-#     branches: word_cloud
+on:
+  push:
+    branches: word_cloud
       
 jobs:
   build:
