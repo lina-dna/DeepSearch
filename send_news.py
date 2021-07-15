@@ -162,20 +162,20 @@ for i in range(len(res['hits']['hits'])):
     split_body = body.split('\n')
     split_body = list(filter(None, split_body))
     nouns_list += (list(map(lambda x : get_nouns(x),split_body)))
+    
 nouns_list = list(map(' '.join, nouns_list))
-nouns_list = ' '.join(nouns_list
+nouns_list = ' '.join(nouns_list)
+                     
 
-# f = open("stopwords_korean.txt", "rt", encoding="utf-8")
-# lines = f.readlines()
-# stop_words = []
-# for line in lines:
-#     line = line.replace('\n', '')
-#     stop_words.append(line)
+f = open("etc/stopwords_korean.txt", "rt", encoding="utf-8")
+lines = f.readlines()
+stop_words = []
+for line in lines:
+    line = line.replace('\n', '')
+    stop_words.append(line)
                     
-font_path = "NanumGothic.ttf"
-# wordcloud = WordCloud(font_path=font_path, background_color='white', colormap='winter', stopwords=stop_words).generate(nouns_list)
-                      
-wordcloud = WordCloud(font_path=font_path, background_color='white', colormap='winter').generate(nouns_list)
+font_path = "etc/NanumGothic.ttf"
+wordcloud = WordCloud(font_path=font_path, background_color='white', colormap='winter', stopwords=stop_words).generate(nouns_list)
 
 plt.figure(figsize=(22,22))
 plt.imshow(wordcloud, interpolation='lanczos')
