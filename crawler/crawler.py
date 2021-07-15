@@ -58,8 +58,7 @@ for i in range(len(article_url_df)):
         article_dict['토픽'] = article_url_df['search_keyword'][i]
         #print(article_dict)
         es.dataInsert(index=index_name, data=article_dict)
-        #reply_df = ariticle_reply()
-        #reply_dfs.append(reply_df)
+
     except:
         continue
 
