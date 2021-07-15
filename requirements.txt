@@ -1,3 +1,4 @@
+wordcloud
 PyGithub
 anyio==3.2.0
 argon2-cffi==20.1.0
