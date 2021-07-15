@@ -135,7 +135,8 @@ wordcloud = WordCloud(font_path=font_path, background_color='white', colormap='w
 plt.figure(figsize=(10,10))
 plt.imshow(wordcloud, interpolation='lanczos')
 plt.axis('off')
-plt.savefig(f'image/{issue_date}_word_cloud.png')
+#plt.savefig(f'image/{issue_date}_word_cloud.png')
+plt.savefig(f'{issue_date}_word_cloud.png')
 
 
 
@@ -144,7 +145,7 @@ plt.savefig(f'image/{issue_date}_word_cloud.png')
 upload_contents = '## Daily News Monitoring \n\n'
 upload_contents += f"{issue_date} \n\n"
 upload_contents += "----------\n\n"
-upload_contents += f"![word_cloud](image/{issue_date}_word_cloud.png)"
+#upload_contents += f"![word_cloud](image/{issue_date}_word_cloud.png)"
 upload_contents += "----------\n\n"
 topic = res['hits']['hits'][0]['_source']['토픽']
 upload_contents += f"*[{topic} 소식]*\n\n"
