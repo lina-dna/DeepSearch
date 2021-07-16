@@ -100,7 +100,7 @@ for i in range(len(res['hits']['hits'])):
     news_section = {'type':'section', 'text' :{'type':'mrkdwn', 'text': f"{j}. {title} [{n_com}] (<{url}|Link>) "}}
     webhook_payload['blocks'].append(news_section)
     
-requests.post(url=webhook_url, json=webhook_payload)
+#requests.post(url=webhook_url, json=webhook_payload)
     
 
 # word cloud
