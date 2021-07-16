@@ -1,54 +1,60 @@
 ## Daily News Monitoring 
 
-2021-07-16 
+2021-07-17 
 
 ----------
 
 ### Daily Hot Keywords 
 
-![word_cloud](image/2021-07-16_word_cloud.png)
+![word_cloud](image/2021-07-17_word_cloud.png)
 
 ----------
 
 *[ESG 소식]*
 
-1. LG화학 ‘신성장’에 10조 쓴다 [3] ([Link](https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=101&oid=032&aid=0003085567))
+1. ㈜두산, 인재·지구환경·파트너 영역 성과 담은 ESG보고서 발간 [0] ([Link](https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=001&aid=0012528738))
 
-2. [미리보는 이데일리 신문]추가 인건비 2.6조…‘하청 직고용’ 막막한 제조업 [0] ([Link](https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=018&aid=0004984933))
+2. 상상인그룹, '걷기 프로젝트' 실시…탄소중립 실천 '앞장' [0] ([Link](https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=101&oid=015&aid=0004578977))
 
-3. 광주 광산구, KT&G 전남본부와 걷기 활성화 맞손 [0] ([Link](https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=002&aid=0002199898))
+3. 상상인그룹, ‘걷기 프로젝트’로 탄소중립 앞장···ESG 경영 실천 [0] ([Link](https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=101&oid=011&aid=0003937525))
+
+4. 세븐일레븐, 서울 쪽방상담소 5곳에 음료 6000개 긴급 지원 [0] ([Link](https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=101&oid=031&aid=0000611163))
+
+5. 아시아나항공, 거래재개 첫날 4.17%↑…지배구조 개선 기대 [0] ([Link](https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=101&oid=008&aid=0004617281))
 
 ----------
 
 *[금융 소식]*
 
-1. 파월 "향후 몇달간 물가 높을 것…통화정책 바꾸려면 멀었다" [7] ([Link](https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=101&oid=001&aid=0012525803))
+1. 코리아엑스퍼트, 'NexS3-EUS 솔루션'으로 질병 인수심사 자동화 체계 완성 [0] ([Link](https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=101&oid=031&aid=0000611173))
 
-2. 윤석열 “文정부, 징벌적 과세로 집값 잡으려 해…시장 생리 존중해야” [204] ([Link](https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=100&oid=366&aid=0000746768))
+2. 가계대출 늘리는 금융사에 페널티… 논의 본격화 [0] ([Link](https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=101&oid=016&aid=0001862316))
 
-----------
+3. 하나은행, 기업고객 대상 해외송금도 비대면으로 가능 [0] ([Link](https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=101&oid=008&aid=0004617301))
 
-*[당사 소식]*
+4. [게시판] 김신 SK증권 사장, 플라스틱 줄이기 '고고챌린지' 동참 [0] ([Link](https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=101&oid=001&aid=0012528795))
 
-1. 광화문원팀, 광화문 인근 식당 50곳 선결제 지원 [0] ([Link](https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=105&oid=018&aid=0004984658))
-
-2. 거리두기 4단계…광화문원팀, 골목상권 지원 앞장 [0] ([Link](https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=105&oid=138&aid=0002106817))
-
-3. 라이나전성기재단, 제5회 라이나50+어워즈 공모…상금 5억으로 늘려 [0] ([Link](https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=004&oid=123&aid=0002250264))
-
-4. "총 5억원의 주인은?"…라이나생명, '라이나50+어워즈' 공모 [0] ([Link](https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=101&oid=215&aid=0000971567))
-
-5. [게시판] 총상금 5억원 제5회 라이나50+어워즈 수상자 공모 [0] ([Link](https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=101&oid=001&aid=0012524472))
+5. 신한은행, 모빌리티 시장 선점 위해 포티투닷과 업무협약 [0] ([Link](https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=101&oid=277&aid=0004938400))
 
 ----------
 
 *[보험 소식]*
 
-1. “집단감염 계기로 ‘노조’ 결성했지만 ‘원청’ 모르쇠에 답답해요” [3] ([Link](https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=101&oid=028&aid=0002552581))
+1. 가천대 길병원 '폐렴 적정성 평가' 4연속 1등급 [0] ([Link](https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=076&aid=0003755182))
 
-2. 9일 연속 네 자릿수 기록…오후 9시까지 신규 확진 1421명 [4] ([Link](https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=103&oid=015&aid=0004578266))
+2. 김해시, 장마 후 축산농가 폭염피해 예방 총력 [0] ([Link](https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=082&aid=0001107254))
 
-3. 코로나19 신규 감염자, 14일 오후 9시까지 1421명…전일 보다 19명 감소 [종합] [1] ([Link](https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=103&oid=144&aid=0000749406))
+3. [투자노트] 가까워진 금리 인상···금융주 말고 뭘 사야 하나요 [0] ([Link](https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=101&oid=366&aid=0000747140))
 
-4. [세계타워] 되풀이되는 재난지원금 선별지원 논란 [0] ([Link](https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=110&oid=022&aid=0003600332))
+4. 체중 줄고, 갈증 심하고, 소변 자주 마렵다고? 이미 '당뇨병' [0] ([Link](https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=076&aid=0003755179))
+
+5. 신한라이프, CJ제일제당과 맞춤형 헬스케어 서비스 출시 [0] ([Link](https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=101&oid=018&aid=0004986458))
+
+----------
+
+*[업계 소식]*
+
+1. 빗장 풀린 보험사 신사업…활성화 대책 속도 [0] ([Link](https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=101&oid=029&aid=0002687410))
+
+2. 삼성화재·생명, ESG경영 구체화… “2030년까지 30.5조원 투자” [0] ([Link](https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=101&oid=417&aid=0000715462))
 
