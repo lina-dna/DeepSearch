@@ -37,9 +37,9 @@ index_name = 'dailynews-naver'
 #index_name = 'test_crawler'
 
 # kst
-yester_day = datetime.date.today() - datetime.timedelta(days=1)
+#yester_day = datetime.date.today() - datetime.timedelta(days=1)
 # utc
-#yester_day = datetime.date.today()
+yester_day = datetime.date.today()
 target_day = yester_day.strftime('%Y-%m-%d')
 webhook_url = os.getenv('WEBHOOK')
 
