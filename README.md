@@ -1,88 +1,78 @@
 ## Daily News Monitoring 
 
-2021-07-21 
+2021-07-22 
 
 ----------
 
 ### Daily Hot Keywords 
 
-![word_cloud](image/2021-07-21_word_cloud.png)
+![word_cloud](image/2021-07-22_word_cloud.png)
 
 ----------
 
 *[ESG 소식]*
 
-1. 삼성 준법위 "단체급식 대외개방 진행상황 모니터링" [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=031&aid=0000612023))
+1. 포스코 최정우 회장 "기업시민으로 존경받는 100년 기업 되자"(종합) [4] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=003&aid=0010621040))
 
-2. 삼성 준법위 "구내식당 개방·경쟁입찰 당부…모니터링할 것" [2] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=001&aid=0012538468))
+2. 포스코, 기업시민 선포 3년 맞아 ‘체인지업 그라운드’ 개관식 열어 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=002&aid=0002201086))
 
-3. 삼성 준법위원회 "급식 대외개방 차질없이 진행해야" [1] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=008&aid=0004619298))
+3. MZ세대 불문율 ‘페이잇포워드’…‘품앗이’는 옛말, 대가 없는 ‘선행 파도타기’ [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=024&aid=0000069743))
 
-4. 삼성 준법위 "단체급식 개방 차질없이 진행 당부"…ESG 활동 첫 보고 [1] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=018&aid=0004990156))
-
-5. 삼성 준법위 "단체급식 대외개방 차질없이 진행돼야" [1] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=421&aid=0005490812))
-
-6. SK이노 "탄소배출 10년내 절반으로…2050년 100% 감축“(종합) [1] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=003&aid=0010618755))
-
-7. 삼성준법위 "단체급식 개방 차질없이…지속 모니터링할 것" [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=629&aid=0000096079))
+4. MZ세대 취향저격 ‘아트페어’가 뜬다 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=103&oid=022&aid=0003602609))
 
 ----------
 
 *[금융 소식]*
 
-1. '1조 원대 사기' 김재현 옵티머스 대표 1심 징역 25년 [1] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=052&aid=0001616868))
+1. [포토] 이재식 농협상호금융대표 구세군 후원 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=100&oid=018&aid=0004991234))
 
-2. 현대차, 2021년 임단협 잠정합의안 도출…'3년 연속 무분규' [6] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=629&aid=0000096080))
-
-3. "車산업 위기 공감"…현대차 노사, 올해 임단협 잠정합의(종합) [75] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=103&oid=018&aid=0004990163))
-
-4. 현대차 노사, 임단협 잠정합의…노조, 27일 찬반투표 실시(종합) [2] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=103&oid=421&aid=0005490846))
-
-5. 현대차 3년 연속 무분규 잠정합의…기본급 7만5천원 인상(종합) [95] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=001&aid=0012538475))
-
-6. 현대차 노사, 임단협 잠정 합의…3년 연속 무분규 지켰다 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=103&oid=092&aid=0002228337))
-
-7. 현대차 노사, 17번 만남 끝에 임단협 잠정합의…“정년연장 대신 임금인상” [109] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=469&aid=0000618587))
-
-----------
-
-*[당사 소식]*
-
-1. [단독] '코로나 백신보험' 봇물…생보협 "명칭 제대로 써라" [1] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=243&aid=0000014628))
-
-2. 아크릴, 한림대강남성심병원·파인헬스케어와 AI 의료 서비스 공동 개발 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=105&oid=030&aid=0002958799))
-
-3. 아크릴-한림대병원-파인헬스케어, AI 의료 서비스 협력 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=003&aid=0010617965))
-
-4. [AI]아크릴, 한림대병원·파인헬스케어와 `AI 의료서비스` 공동개발 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=105&oid=018&aid=0004989691))
-
-5. 아크릴, AI 의료서비스 공동 개발 착수 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=105&oid=016&aid=0001863974))
+2. 뉴욕증시, 기업 실적 호조에 상승 출발 [1] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=001&aid=0012541397))
 
 ----------
 
 *[보험 소식]*
 
-1. 전남 여수서, 언덕길 탁송 차량 ‘횡단보도’ 덮쳐 3명 숨지고 9명 중경상 [4] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=277&aid=0004940652))
+1. 영국, 입국 심사 시 코로나19 확인 안 해…방역 구멍 우려 [1] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=104&oid=056&aid=0011087617))
 
-2. 오늘의 인사 - 2021년 7월 21일 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=032&aid=0003086788))
+2. 직급이, 위계가 뭔 소용…효율성에 집중하라 [8] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=024&aid=0000069747))
 
-3. “펀드·보험·자산관리로 금융 영역 확장” 자신감 내비친 카카오뱅크 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=032&aid=0003086783))
+3. 오늘의 인사 - 2021년 7월 22일 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=032&aid=0003087053))
 
-4. 오늘의 부고 - 2021년 7월 21일 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=032&aid=0003086787))
+4. 3~5만원 드는 채용검진, 앞으론 고용주가 부담해야 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=310&aid=0000089299))
+
+5. 밤중이어도 응급실 빨리 가야 하는 아이 증상 [4] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=103&oid=296&aid=0000050933))
+
+6. 7월22일 동정 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=028&aid=0002553550))
+
+7. [포커스] 총리 "철회" 요청에도 민노총 잇따라 집회 [186] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=448&aid=0000334622))
+
+8. 다른 지역 렌터카가 제주에?…“불법 영업” [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=056&aid=0011087735))
+
+9. 민주노총, 원주 대규모 집회 예고…철회 촉구 잇따라 [19] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=056&aid=0011087611))
 
 ----------
 
 *[업계 소식]*
 
-1. 2%대 보험사 퇴직연금 수익률, 올 최대 3배 늘었다 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=014&aid=0004678242))
+1. 현정화와 맞짱 뜬 ‘5세 스타킹’… 17세 ‘탁신’ 노린다 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=004&oid=081&aid=0003203364))
 
-2. 한달간 외국인 고객 4000명↑, 삼성생명 영업비결은 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=014&aid=0004678241))
+2. 오주한·안드레·진안·전지희·최효주… 다문화 5남매도 ‘태극 심장’이 뛴다 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=004&oid=081&aid=0003203366))
 
-3. 삼성화재, ESG 경영 가속··· 2030년까지 투자 10조로 확대 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=011&aid=0003939222))
+3. '즉시연금 소송' 삼성생명도 패소 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=014&aid=0004679073))
 
-4. 한화‧KDB생명, IFRS17 도입에 특히 ‘취약’ [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=031&aid=0000612009))
+4. 4000억 즉시연금 소송, 삼성생명 1심서 패소 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=015&aid=0004581532))
 
-5. [생활의 여유] 행사 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=103&oid=082&aid=0001108220))
+5. [금융가 인사이드] 논란 더 키운 암보험금 분쟁…삼성생명의 밀실야합? [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=374&aid=0000251777))
 
-6. 러·몽골 출신 외국인 설계사들 '보험퀸 뺨치네'…月 10건씩 폭풍 계약 [5] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=015&aid=0004580890))
+6. ‘불명확한 약관’이 판결 갈랐다.. 미지급 1조 소비자에 돌아가나 [1] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=014&aid=0004679067))
+
+7. ‘5만 명, 4천억 원’ 삼성생명 즉시연금 미지급분 소송서 가입자 승소 [2] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=056&aid=0011087454))
+
+8. 삼성생명, 즉시연금 소송 1심 패소… 법원 “별도공제, 고객에 안내 안해” [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=022&aid=0003602573))
+
+9. 삼성생명도 '즉시연금' 소송 패소…가입자 5만여 명, 4000억 받나 [1] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=469&aid=0000618828))
+
+10. 삼성생명, 즉시연금 1심 패소…4300억 후폭풍 [42] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=374&aid=0000251785))
+
+11. 삼성생명 즉시연금 소송 1심에서 소비자 승소 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=052&aid=0001617300))
 
