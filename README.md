@@ -1,58 +1,60 @@
 ## Daily News Monitoring 
 
-2021-07-23 
+2021-07-24 
 
 ----------
 
 ### Daily Hot Keywords 
 
-![word_cloud](image/2021-07-23_word_cloud.png)
+![word_cloud](image/2021-07-24_word_cloud.png)
 
 ----------
 
 *[ESG 소식]*
 
-1. 동서발전, 제4기 시민참여혁신단 출범…"ESG경영 강화" [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=119&aid=0002513706))
+1. 전력거래소, 인권경영 확산 ‘박차’ [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=002&aid=0002201525))
 
-2. [공공기관 소식] KTL-충남도-아산시, 바이오의료산업 육성 한뜻 外 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=082&aid=0001108862))
-
-3. 한국동서발전, 제4기 시민참여혁신단 출범…"ESG경영 강화" [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=009&aid=0004828180))
-
-4. 서부발전·동서발전·한전KPS 등 ESG 경영 박차 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=082&aid=0001108860))
-
-5. [미리보는 이데일리 신문]대선 휩쓰는 反기업 공약…재계는 속탄다 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=018&aid=0004992405))
-
-6. 중부발전, 충남형 배달앱 도입에 1억원 지원 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=119&aid=0002513710))
+2. [포토]이동진 도봉구청장, 서울시구청장協 감사패 받아 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=277&aid=0004942542))
 
 ----------
 
 *[금융 소식]*
 
-1. 여야, 전국민 재난지원금 막판 진통…고소득자 제외 논의 [2] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=100&oid=018&aid=0004992419))
+1. ‘디스커버리 펀드' 수사 본격화… 장하원 대표 출국금지 [29] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=023&aid=0003629018))
 
-2. 여아, 추경 처리시한 하루 앞두고 타결 못해…23일 막판 합의 시도 [10] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=100&oid=421&aid=0005496212))
-
-3. 금감원, 옵티머스 '등록 취소' 결정...최고 수위 제재 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=052&aid=0001617939))
+2. 국내 상장사 여성 CEO 5.8%뿐…74%가 창업주 일가 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=310&aid=0000089368))
 
 ----------
 
 *[보험 소식]*
 
-1. 원주시 “1인시위만 허용”… 민노총은 “집회 탄압” 반발 [72] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=023&aid=0003628764))
+1. 경찰 봉쇄에도…민주노총 300여명, 원주집회 강행 [195] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=032&aid=0003087493))
 
-2. 중기부, ‘직접생산 위반’ 실태점검…한전은 3곳 계약해지 [1] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=056&aid=0011088599))
+2. "통신수단으로 보험계약 해지"..보험업법 개정안 통과 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=100&oid=014&aid=0004680437))
+
+3. 경찰 차벽에 막히자 언덕 기어올라…민노총 원주 집회 강행 [354] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=448&aid=0000334833))
+
+4. 민주노총 집회 강행...대규모 집결 막았지만 곳곳 충돌 [288] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=052&aid=0001618380))
+
+5. DB손보, 'TM보험 디지털 미러링 서비스' 혁신금융서비스 지정 [1] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=003&aid=0010625294))
+
+6. [사설] 수도권 거리두기 연장… 방역망 촘촘히 짜 고비 넘겨야 [3] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=110&oid=022&aid=0003603345))
+
+7. "최대 25조 손실" 사상 첫 무관중 개최...사라진 '올림픽 특수' [34] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=104&oid=469&aid=0000619399))
+
+8. 장흥 등 특별재난지역 선포...피해 복구 탄력 기대! [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=052&aid=0001618394))
+
+9. 민주노총 원주 집회 강행…외곽 시위에 충돌까지 [8] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=161&oid=422&aid=0000496486))
 
 ----------
 
 *[업계 소식]*
 
-1. 카뱅, 공모가 3만9000원 확정… 금융주 시총 3위로 코스피 간다 [31] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=469&aid=0000619108))
+1. [fn사설] 즉시연금 줄줄이 패소, 보험상품 판매 관행에 경종 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=110&oid=014&aid=0004680283))
 
-2. 카카오뱅크, 수요예측 2585조원 몰렸다…"은행보다 플랫폼 방점" [8] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=008&aid=0004620592))
+2. 메트라이프도 가세… 보험사, ‘미니암보험’ 경쟁 뜨겁다 [2] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=417&aid=0000717816))
 
-3. 금리 인상 신호에도 보험株 `주춤`…"장기금리·실적 부진" [4] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=215&aid=0000973504))
+3. [특징주] 효성ITX, 카카오뱅크 사상 최대 수요예측에 콜센터 운영업체로 부각 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=417&aid=0000718022))
 
-4. 허리 다친 뒤 金, 이번엔 확진… 유승민 액땜 통할까 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=104&oid=081&aid=0003203636))
-
-5. 카뱅에 큰손들 2585조원 '러브콜'…역대급 흥행 [3] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=015&aid=0004582108))
+4. 삼성생명, 스포츠 전문 유튜브 채널 ‘탁쳐’·‘콕쳐’ 누적 조회수 1000만 회 돌파 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=021&aid=0002479474))
 
