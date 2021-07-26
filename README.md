@@ -1,58 +1,58 @@
 ## Daily News Monitoring 
 
-2021-07-26 
+2021-07-27 
 
 ----------
 
 ### Daily Hot Keywords 
 
-![word_cloud](image/2021-07-26_word_cloud.png)
+![word_cloud](image/2021-07-27_word_cloud.png)
 
 ----------
 
 *[ESG 소식]*
 
-1. [압박받는 ESG경영] 이제는 투자 척도… "정보공시 의무화해야" [1] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=029&aid=0002688903))
-
-2. 서산시·대산공단 4사 합동검증단 '유명무실' [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=002&aid=0002201600))
-
-3. 친환경 부품·로봇이 미래사업…현대위아 ESG보고서 발간 [1] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=079&aid=0003532972))
-
-4. 청년 '치킨 성공신화' BBQ가 밀어준다 [5] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=014&aid=0004680938))
-
-5. 윤홍근 BBQ 회장, 청년창업 지원에 200억 '쾌척' [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=057&aid=0001595529))
+1. [미리보는 이데일리 신문]반도체·배터리·백신 키우자…임기말 文, 첫 기업 감세 [1] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=018&aid=0004995164))
 
 ----------
 
 *[금융 소식]*
 
-1. 보험사 안 가도 전화로만 보험계약 해지 가능해진다 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=215&aid=0000973988))
+1. "동학개미 땡큐"…1조 클럽 넘보는 증권사들 [6] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=018&aid=0004995184))
 
-2. "오피스텔 매매·전세가 당분간 오른다" [2] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=215&aid=0000973983))
+2. 은행 점포가 안 보인다…디지털 소외계층 어찌하라고 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=022&aid=0003604027))
 
-3. [사설] 국민 88%에 재난지원금… 정치 흥정에 따른 ‘퍼주기 쇼’ [1] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=110&oid=022&aid=0003603688))
+----------
 
-4. "저신용자도 최저 4%대 금리로 은행서 대출"…햇살론뱅크 26일 출시 [1] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=215&aid=0000973986))
+*[보험 소식]*
+
+1. 국민지원금 건보료 기준...홑벌이 4인 가구 직장인 30만 8천 원 [14] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=052&aid=0001619487))
+
+2. '요양급여 부정수급' 윤석열 장모 2심, 형사5부 배당 [1] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=052&aid=0001619479))
+
+3. 英 에이온, 합병 결국 무산…바이든 첫 반독점 소송 '승리' [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=104&oid=015&aid=0004583698))
+
+4. 두경부암, 4년간 19% 증가… 늦은 치료, 큰 장애 남겨 [8] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=103&oid=346&aid=0000042898))
+
+5. 경북 “양식장 고수온 피해 막아라” [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=032&aid=0003087969))
+
+6. [뉴스하이킥] 채이배 "삼성바이오로직스 회계부정 문제, 감옥에 있는 도둑의 새로운 범죄 드러난 격" [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=100&oid=214&aid=0001138322))
 
 ----------
 
 *[업계 소식]*
 
-1. -올림픽- 배드민턴 김소영-공희용·서승재-채유정 2연승 순항(종합) [2] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=104&oid=001&aid=0012550758))
+1. 카뱅, 청약 첫날 경쟁률 37.8대 1…증거금 12조521억(종합) [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=003&aid=0010629539))
 
-2. 탁구 혼복 이상수·전지희 대만에 패배, 4강행 ‘좌절’ [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=004&oid=366&aid=0000749377))
+2. 카카오뱅크, 청약 첫날 증거금 12조...경쟁률 38대 1 [2] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=119&aid=0002514724))
 
-3. 대한민국의 트렌드…이곳에 가면 다 볼 수 있다 [1] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=105&oid=009&aid=0004828997))
+3. 거세지는 퇴직연금 '머니 무브'···미래에셋證, 은행 제치고 적립금 증가 1위 [1] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=011&aid=0003941869))
 
-4. 올림픽 이모저모(25일) [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=104&oid=028&aid=0002554027))
+4. 카카오뱅크, 첫날 증거금 12조원…SK바사·SKIET 못 미쳐 [4] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=008&aid=0004621983))
 
-5. '100조 머니무브' 공모주 여름대전…1주라도 더 받는 전략은? [4] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=015&aid=0004583069))
+5. 카카오뱅크 공모 청약 첫날 12조 몰려…경쟁률 37.8대1(종합) [14] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=421&aid=0005503021))
 
-6. 공모주 여름 슈퍼대전 [1] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=015&aid=0004583067))
+6. '배틀그라운드'를 영화로…크래프톤, '제2 디즈니' 꿈꾼다 [8] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=015&aid=0004583566))
 
-7. ESG위원회, 만들기는 쉽다…제대로 하는건 어려운 문제다 [스페셜 리포트] [4] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=009&aid=0004828946))
-
-8. ‘월급쟁이’ 주식 부자는 왜 게임회사에 많을까? [14] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=028&aid=0002554013))
-
-9. 김제덕 신유빈 안세영…‘10대 돌풍’ 이어지나 [9] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=104&oid=020&aid=0003372232))
+7. [IPO 슈퍼위크] 15개사 몰렸다…투자자들의 선택은? [2] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=031&aid=0000613521))
 
