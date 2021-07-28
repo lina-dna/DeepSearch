@@ -3,7 +3,7 @@ import datetime
 import json
 import sys, os
 sys.path.append(os.path.dirname(os.path.abspath(os.path.dirname('DeepSearch'))))
-from connector import es_connector
+from connector import es_connector,strapi_connector
 from github import Github
 from wordcloud import WordCloud
 import matplotlib.pyplot as plt 
@@ -65,6 +65,12 @@ query = '''
 res = es.searchFilter(index = index_name, body = query)
 
 
+# filter keywords
+
+strapi = strapi_connector.Strapi()
+keywords_db = strapi.get_db()
+filter_keywords = [K['Keywords'] for K in keywords_db if K['type'] == 'filter']
+
 # slack webhook
 
 webhook_payload = {'text':'Daily News Monitoring', 'blocks':[]}
@@ -79,6 +85,9 @@ webhook_payload['blocks'].append(topic_section)
 
 j=0
 for i in range(len(res['hits']['hits'])):
+    #filtering news
+    if any(word in res['hits']['hits'][i]['_source']['본문'] for word in filter_keywords):
+        continue
     j += 1
     temp_topic = res['hits']['hits'][i]['_source']['토픽']
     title = res['hits']['hits'][i]['_source']['제목']
@@ -150,6 +159,9 @@ topic = res['hits']['hits'][0]['_source']['토픽']
 upload_contents += f"*[{topic} 소식]*\n\n"
 j=0
 for i in range(len(res['hits']['hits'])):
+    #filtering news
+    if any(word in res['hits']['hits'][i]['_source']['본문'] for word in filter_keywords):
+        continue
     j += 1
     temp_topic = res['hits']['hits'][i]['_source']['토픽']
     title = res['hits']['hits'][i]['_source']['제목']

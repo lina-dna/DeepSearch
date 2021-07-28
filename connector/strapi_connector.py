@@ -12,4 +12,5 @@ class Strapi:
                         'Content-Type': 'application/json'
                       })
         data = json.loads(response.text)
+        
         return data 
