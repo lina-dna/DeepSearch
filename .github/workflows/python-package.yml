@@ -46,6 +46,7 @@ jobs:
           ES_ID: ${{ secrets.ES_ID }}
           ES_PASSWD: ${{ secrets.ES_PASSWD }}
           WEBHOOK: ${{ secrets.WEBHOOK }}
+          STRAPI_HOSTS: ${{ secrets.STRAPI_HOSTS }}
       run: |
         python send_news.py
         git diff
