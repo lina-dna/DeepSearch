@@ -68,7 +68,7 @@ res = es.searchFilter(index = index_name, body = query)
 # filter keywords
 
 strapi = strapi_connector.Strapi()
-keywords_db = strapi.get_db()
+keywords_db = strapi.get_db(collection = 'crawler-keywords')
 filter_keywords = [K['Keywords'] for K in keywords_db if K['type'] == 'filter']
 
 # slack webhook
