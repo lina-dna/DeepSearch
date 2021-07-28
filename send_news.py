@@ -123,6 +123,8 @@ def get_nouns(body: str):
 
 nouns_list = []
 for i in range(len(res['hits']['hits'])):
+    if any(word in res['hits']['hits'][i]['_source']['본문'] for word in filter_keywords):
+        continue
     body = res['hits']['hits'][i]['_source']['본문']
     split_body = body.split('\n')
     split_body = list(filter(None, split_body))
