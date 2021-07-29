@@ -1,60 +1,56 @@
 ## Daily News Monitoring 
 
-2021-07-29 
+2021-07-30 
 
 ----------
 
 ### Daily Hot Keywords 
 
-![word_cloud](image/2021-07-29_word_cloud.png)
+![word_cloud](image/2021-07-30_word_cloud.png)
 
 ----------
 
 *[ESG 소식]*
 
-1. 대기업, 대기오염물질 배출량 5년새 절반…탈석탄·ESG효과(종합) [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=003&aid=0010634837))
+1. 미래에셋, 서부발전 원화 녹색채권 2700억 발행 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=014&aid=0004683934))
 
-2. 대기업, 대기오염물질 배출량 5년새 절반…탈석탄·ESG효과(종합) [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=003&aid=0010634837))
+2. 전력거래소 ‘커피박 친환경 재자원화’ 킥오프 회의 열어 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=002&aid=0002202526))
 
 ----------
 
 *[금융 소식]*
 
-1. 집값은 계속 치솟는데, 홍남기 “하락할 것” 경고만 반복 [96] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=028&aid=0002554565))
+1. 카카오뱅크 환불 57조 어디로…HK이노엔? 크래프톤? [15] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=018&aid=0004998394))
 
-2. ‘BTS 덕분’ 맥도날드, 2분기 깜짝 실적 달성 [1] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=025&aid=0003122449))
+2. 전기전자株 호실적에도 반년간 박스권…반등은 언제? [16] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=018&aid=0004998392))
 
-3. ‘BTS 덕분’ 맥도날드, 2분기 깜짝 실적 달성 [1] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=025&aid=0003122449))
+3. [설왕설래] 양치기 소년 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=110&oid=022&aid=0003605253))
 
-4. BTS 덕분에 '깜짝 실적'…맥도날드, 2분기 매출 57% 급증 [11] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=104&oid=015&aid=0004584887))
+4. [ESG동향] 함부로 친환경을 말하지 말라 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=110&oid=022&aid=0003605250))
 
-5. 사모펀드 피해자들, 금감원 분조위 ‘깜깜이 진행’에 불만 [2] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=018&aid=0004997180))
+5. [심층인터뷰] “최대 80% 배상”…의미는? [1] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=056&aid=0011092466))
 
-6. 사모펀드 피해자들, 금감원 분조위 ‘깜깜이 진행’에 불만 [2] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=018&aid=0004997180))
-
-7. 금감원, 청년 대상 비대면 대출 사기 소비자경보 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=003&aid=0010634849))
-
-8. BTS 덕분에 '깜짝 실적'…맥도날드, 2분기 매출 57% 급증 [11] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=104&oid=015&aid=0004584887))
-
-9. 집값은 계속 치솟는데, 홍남기 “하락할 것” 경고만 반복 [96] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=028&aid=0002554565))
+6. 중복청약 가능 크래프톤…부지런해야 한주라도 더 받는다 [28] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=103&oid=009&aid=0004831392))
 
 ----------
 
 *[보험 소식]*
 
-1. 우려와 기대 ‘데이터 3법’ 시행 1년…변화는? [6] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=105&oid=056&aid=0011091653))
+1. 민주노총 “내일 원주 집회”…경찰 “원천 차단” [12] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=056&aid=0011092342))
 
-2. 오후 9시 1492명, 전날보다 196명↓…부산·경남·대구 확산세 여전(종합) [16] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=421&aid=0005508762))
+2. 배민커넥터, 시간제 보험료 부담 줄어든다…KB손해보험 이어 DB손보도 상품 내놔 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=076&aid=0003760646))
 
-3. 상장 앞둔 엠로 "클라우드·AI 무기로 글로벌 시장 도약" [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=105&oid=092&aid=0002229162))
+----------
 
-4. 우려와 기대 ‘데이터 3법’ 시행 1년…변화는? [6] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=105&oid=056&aid=0011091653))
+*[업계 소식]*
 
-5. 상장 앞둔 엠로 "클라우드·AI 무기로 글로벌 시장 도약" [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=105&oid=092&aid=0002229162))
+1. 크래프톤 공모가 49만8천원 확정… 공모액 4.3조 역대 2위 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=022&aid=0003605219))
 
-6. 오후 9시 1492명, 전날보다 196명↓…부산·경남·대구 확산세 여전(종합) [16] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=421&aid=0005508762))
+2. 크래프톤, 공모가 49만8000원 확정…희망밴드 최상단 [9] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=015&aid=0004585454))
 
-7. "노동자 보호" 명목으로... 中 이번엔 음식 배달 기업 규제 [4] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=104&oid=469&aid=0000620436))
+3. ‘크래프톤’ 공모가 49만8000원 확정 [9] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=032&aid=0003088776))
 
-8. "노동자 보호" 명목으로... 中 이번엔 음식 배달 기업 규제 [4] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=104&oid=469&aid=0000620436))
+4. 크래프톤 공모가 49만 8천원 확정…‘거품 논란’에도 게임 대장주 유력 [20] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=081&aid=0003205392))
+
+5. 크래프톤 공모가 49만8천원 확정...공모액 4.3조 역대 2위 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=052&aid=0001620920))
 
