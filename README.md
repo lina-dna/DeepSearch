@@ -1,58 +1,70 @@
 ## Daily News Monitoring 
 
-2021-08-01 
+2021-08-02 
 
 ----------
 
 ### Daily Hot Keywords 
 
-![word_cloud](image/2021-08-01_word_cloud.png)
+![word_cloud](image/2021-08-02_word_cloud.png)
 
 ----------
 
 *[ESG 소식]*
 
-1. 한화손해보험, '지속가능경영보고서' 첫 발간 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=014&aid=0004684575))
+1. [모십니다] 대한민국 ESG 경영대상 민간 부문 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=015&aid=0004586214))
 
-2. "사돈이 사람 좀 만들어 주소" 이 한마디가 160조 그룹 만들었다 [177] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=009&aid=0004832002))
+2. 강명수 표준협회장 'G7 임팩트태스크포스' 최고위원 선임 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=014&aid=0004684929))
 
-3. 삼성화재, 손해보험업 특성 살려 'ESG' 실천 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=014&aid=0004684577))
+3. 치열해진 '탄소저감 올림픽'…LG·현대차 웃었다 [2] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=015&aid=0004586219))
 
-4. NH농협손해보험, 고령농업인에 2000만원 상당 냉방물품 기부 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=014&aid=0004684564))
+4. 10조 창출한 최태원의 '新사회적 가치' [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=015&aid=0004586216))
+
+5. LG에너지솔루션 ESG 비전 발표…"2030년까지 전력 100% 재생에너지로" [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=015&aid=0004586218))
+
+6. 벌써부터 '추석 선물 사전 판매' 경쟁에 들어간 대형마트들 [1] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=469&aid=0000621125))
+
+7. Hanwha Group recognizes 40 years of leadership under Kim Seung-youn [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=640&aid=0000014689))
 
 ----------
 
 *[금융 소식]*
 
-1. "8월 MSCI편입 종목 주목하라"...1순위는 이 종목 [19] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=215&aid=0000975367))
+1. 집값 고공행진에 금리 오르고…부담 가중 [36] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=055&aid=0000911743))
 
-2. 효성화학, 2분기 이어 3분기도 견조한 실적 기대 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=014&aid=0004684633))
+2. 주식 투자 1억 벌면 2023년부터 세금 ‘0원’ [71] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=024&aid=0000069895))
 
-3. 지방금융지주 역대급 실적...증권가는 목표주가 줄상향 [3] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=277&aid=0004946685))
+3. 방치된 내 목돈…디폴트 옵션이 藥 될까 [1] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=110&oid=024&aid=0000069891))
 
-4. [올댓차이나] 중국, 암호화폐 시장에 고강도 규제 유지 천명 [10] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=104&oid=003&aid=0010640122))
+4. 형평성 논란에...개인택시 지원금도 80만원으로 '키맞춤' [24] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=469&aid=0000621138))
 
-5. "투자 코인 상폐될까 잠이 안와요"…이것만 알아도 밤잠 푹 잔다 [18] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=103&oid=009&aid=0004832037))
+5. [기하영의 생활 속 카드]'엄카' 대신 중고생 신용카드 어때요 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=277&aid=0004946963))
 
-6. 강력 보안으로 글로벌 공략… 네이버클라우드, ‘국내 최초’ MTCS 인증 취득 [1] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=105&oid=022&aid=0003605743))
+6. 거래액·신규 투자자 급감…逆프리미엄까지 [4] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=024&aid=0000069896))
 
-7. 지난해 전세계 '전기차' 41%↑…"보험사, 리스크 대비해야" [2] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=277&aid=0004946675))
-
-8. 앞으로는 주택연금 가입자가 수령방식 선택 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=056&aid=0011093349))
-
-9. ‘대출 조인다’ 엄포에 2030, 7억 이하 아파트 ‘영끌’ [234] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=449&aid=0000212663))
+7. 넥스트도어…11개국서 서비스하는 ‘미국판 당근마켓’ [1] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=024&aid=0000069892))
 
 ----------
 
 *[보험 소식]*
 
-1. 비수도권도 잡히지 않는 확산세...함양군, 거리두기 4단계 [14] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=052&aid=0001621611))
+1. 대전교도소 교도관 확진…재소자 전수검사 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=056&aid=0011093511))
 
-2. 4단계 닷새째 대전에서 낮 동안 40명 확진…새 집단감염 속출 [16] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=001&aid=0012567815))
+2. 집세 밀린 미국인 수백만명, 거리 나앉을 위기 [15] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=104&oid=032&aid=0003089179))
 
-3. "우리도 부자 아닌데…" 지원금 못받는 직장인, 월 소득 얼마길래 [강진규의 데이터너머] [234] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=015&aid=0004586013))
+3. 오늘의 인사 - 2021년 8월 2일 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=032&aid=0003089190))
 
-4. [신간] 5년만에 은퇴에 성공한 마흔살 부부 이야기 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=103&oid=417&aid=0000720560))
+----------
 
-5. 비수도권도 잡히지 않는 확산세...함양군, 거리두기 4단계 [1] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=052&aid=0001621590))
+*[업계 소식]*
+
+1. 20대도 걸리는 만성질환, 보험으로 대비를 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=015&aid=0004586189))
+
+2. [CEO] 메타버스에 디지털 교실 구축…'AI 쌤'이 알려줘요 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=009&aid=0004832165))
+
+3. 크래프톤 청약 증거금 신기록 쓸까 [14] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=022&aid=0003605893))
+
+4. 오늘부터 `크래프톤` 청약, 역대 최고증거금 돌파하나 [12] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=029&aid=0002690111))
+
+5. 크래프톤 이어 원티드랩·한컴라이프케어…'IPO 슈퍼위크' [1] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=015&aid=0004586198))
 
