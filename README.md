@@ -1,50 +1,60 @@
 ## Daily News Monitoring 
 
-2021-08-10 
+2021-08-26 
 
 ----------
 
 ### Daily Hot Keywords 
 
-![word_cloud](image/2021-08-10_word_cloud.png)
+![word_cloud](image/2021-08-26_word_cloud.png)
 
 ----------
 
 *[ESG 소식]*
 
-1. SK케미칼, 2Q 영업익 861억…분기 사상 최대 실적(종합) [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=003&aid=0010656051))
-
-2. ‘오염 주범’ 오명 벗기 나선 화학업계 [2] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=032&aid=0003090807))
-
 ----------
 
 *[금융 소식]*
 
-1. '카뱅의 두 얼굴'...'마통 금리' 5대 은행보다 높아 [117] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=052&aid=0001625179))
+1. [뉴스하이킥] 조남희 "정부, 과도한 시장개입 멈추고 대출정책 유연하게 풀어가야" [3] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=100&oid=214&aid=0001144262))
 
-2. 악재 겹친 알리바바, 이번엔 직장 내 성폭력 사건 파문 [17] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=104&oid=052&aid=0001625188))
+2. 인플레에 쉽게 투자할 수 없을까?…물가채 ETN 두달새 9% [1] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=018&aid=0005019751))
 
-3. 뉴욕증시, 코로나19 우려에 하락 출발 [1] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=001&aid=0012589332))
+3. [뉴스하이킥] 홍춘욱 "금리, 앞으로 한두번 더 올릴 것" [2] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=100&oid=214&aid=0001144263))
 
-4. 주인 바뀐 코스닥 상장사 주가 ‘껑충’ [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=018&aid=0005006620))
+4. 경찰, '환불 중단' 머지플러스 12시간 압수수색 [6] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=016&aid=0001879038))
 
-5. 케이뱅크, 새 CI 공개 [포토뉴스] [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=032&aid=0003090836))
+5. 경찰 '대규모 환불 대란' 머지플러스 압수수색…12시간만에 종료 [3] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=008&aid=0004636324))
 
-6. [김환기칼럼] 무책임한 ‘공무원 공화국’ 만들기 [6] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=110&oid=022&aid=0003608440))
+6. 뉴욕증시, 고점 부담 속에 혼조세로 출발 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=001&aid=0012621470))
+
+7. 숨고르기 장세 속 '돈나무 언니'는 이 종목 샀다 [뉴욕증시 나우] [9] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=215&aid=0000980649))
 
 ----------
 
 *[보험 소식]*
 
-1. “대형 IT 업체에 특혜”…지역은행들, 전자금융거래법 개정 ‘반발’ [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=056&aid=0011098243))
+1. “사망보험금이 매년 올라가요” 현혹…보험사 ‘체증형 종신’ 가입 유도 급증 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=032&aid=0003094131))
 
-2. 휴가철·코로나로 ‘자차 이동’ 늘면서 보험사 손해율 상승 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=032&aid=0003090806))
+2. 500대 기업 상반기 순고용 5300명 늘었다…삼성전자 1위(종합) [1] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=003&aid=0010683677))
+
+3. 충청북도, 제2회 추경안 5,664억 원 증액 편성 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=056&aid=0011108172))
 
 ----------
 
 *[업계 소식]*
 
-1. "공모주 '슈퍼위크' 고맙다"…증권사들, 수백억 수수료 잔치 [8] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=015&aid=0004589446))
+1. 저축은행 이어 보험사·카드사도 대출받기 어려워진다 [16] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=028&aid=0002557942))
 
-2. 삼성생명·법무법인 가온, 패밀리오피스 업무협약 체결 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=015&aid=0004589416))
+2. 브랜드 ‘맛’ 담았다… 보험사가 ‘맥주·요구르트’ 파는 이유 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=417&aid=0000728527))
+
+----------
+
+*[헬스케어 소식]*
+
+1. "이젠 클라우드·메타버스株"…사업 다각화로 주목받는 한컴 [1] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=015&aid=0004596009))
+
+2. 유니티, ‘유니티 포 휴머니티 서밋 2021’ 개최…美아티스트 커먼 기조연설 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=105&oid=468&aid=0000785799))
+
+3. 한국콜마, 인체 미생물로 신약 만든다 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=011&aid=0003954466))
 
