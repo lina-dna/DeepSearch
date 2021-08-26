@@ -1,12 +1,12 @@
 ## Daily News Monitoring 
 
-2021-08-26 
+2021-08-27 
 
 ----------
 
 ### Daily Hot Keywords 
 
-![word_cloud](image/2021-08-26_word_cloud.png)
+![word_cloud](image/2021-08-27_word_cloud.png)
 
 ----------
 
@@ -16,45 +16,67 @@
 
 *[금융 소식]*
 
-1. [뉴스하이킥] 조남희 "정부, 과도한 시장개입 멈추고 대출정책 유연하게 풀어가야" [3] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=100&oid=214&aid=0001144262))
+1. [현장에선] ‘대박 상품’의 함정 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=110&oid=022&aid=0003613822))
 
-2. 인플레에 쉽게 투자할 수 없을까?…물가채 ETN 두달새 9% [1] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=018&aid=0005019751))
+2. [ESG동향] 11년 만에 확 바뀐 환경모범기준 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=110&oid=022&aid=0003613820))
 
-3. [뉴스하이킥] 홍춘욱 "금리, 앞으로 한두번 더 올릴 것" [2] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=100&oid=214&aid=0001144263))
+3. 박원순 ‘사회주택’ 저격한 오세훈 “47%가 임대료 기준 위반…법적 대응 검토” [7] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=022&aid=0003613811))
 
-4. 경찰, '환불 중단' 머지플러스 12시간 압수수색 [6] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=016&aid=0001879038))
+4. 소상공인 41조 대출·보증...국민지원금 9월 말까지 90% 지급 [8] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=052&aid=0001632616))
 
-5. 경찰 '대규모 환불 대란' 머지플러스 압수수색…12시간만에 종료 [3] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=008&aid=0004636324))
+5. [사설] 2년9개월 만에 기준금리 인상, 금융약자 피해 최소화해야 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=110&oid=022&aid=0003613826))
 
-6. 뉴욕증시, 고점 부담 속에 혼조세로 출발 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=001&aid=0012621470))
+6. 금리인상에 빛나는 금융주…외국인 장바구니에 '쏙' [1] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=018&aid=0005020943))
 
-7. 숨고르기 장세 속 '돈나무 언니'는 이 종목 샀다 [뉴욕증시 나우] [9] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=215&aid=0000980649))
+7. 8월27일 알림 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=028&aid=0002558219))
 
 ----------
 
 *[보험 소식]*
 
-1. “사망보험금이 매년 올라가요” 현혹…보험사 ‘체증형 종신’ 가입 유도 급증 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=032&aid=0003094131))
+1. “가계 대출 줄여라” 연일 독촉… 2금융권 마통까지 조인다 [162] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=081&aid=0003211898))
 
-2. 500대 기업 상반기 순고용 5300명 늘었다…삼성전자 1위(종합) [1] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=003&aid=0010683677))
+2. 뉴욕증시, 잭슨홀 심포지엄 대기 속 혼조세로 출발 [1] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=001&aid=0012624387))
 
-3. 충청북도, 제2회 추경안 5,664억 원 증액 편성 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=056&aid=0011108172))
+3. 넛지헬스케어, 상반기 역대 최대 매출 243억원 달성 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=030&aid=0002965470))
+
+----------
+
+*[보험 헬스케어 소식]*
+
+1. MBK, 안정적인 딜만 추진… 성장 산업 투자는 번번이 고배 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=366&aid=0000757103))
+
+2. [시황종합]코스피, 금리인상에 3120선 하락 마감…외인 현·선물 매도 [14] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=421&aid=0005565422))
+
+3. [시황] 코스피, '금리인상' 여파 0.5%↓…3120선 마감 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=119&aid=0002524368))
+
+4. 넛지헬스케어, 상반기 영업익 47억원 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=105&oid=092&aid=0002231832))
+
+5. 코스피, 한은 기준금리 인상에 하락마감…삼성전자 1.45%↓ [18] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=015&aid=0004596427))
+
+6. [마감시황] 펄어비스 신작 도깨비 공개에 25.57%↑, 카카오게임즈·SK바이오사이언스도 상승 [1] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=243&aid=0000015637))
+
+7. 보험사, 건보공단 공공 의료데이터 이용 결국 '좌절' [1] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=030&aid=0002965297))
+
+8. '금리인상'에 코스피 주춤…나흘만에 하락전환 [3] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=215&aid=0000980863))
 
 ----------
 
 *[업계 소식]*
 
-1. 저축은행 이어 보험사·카드사도 대출받기 어려워진다 [16] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=028&aid=0002557942))
+1. 금융위 안건소위…‘사실상’ 제재 결정 권한에 투명성 결여 논란 [4] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=028&aid=0002558117))
 
-2. 브랜드 ‘맛’ 담았다… 보험사가 ‘맥주·요구르트’ 파는 이유 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=417&aid=0000728527))
+2. 금리인상 반기는 보험사, 수익개선 기대 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=029&aid=0002693948))
+
+3. 생명보험재단, ‘생명숲 꿈이룸 지원사업’ 통해 교육격차 해소 앞장 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=004&oid=123&aid=0002253327))
+
+4. [단독] "USB로 데이터 가져가라"면서 보험사 방문은 막은 심평원 [2] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=031&aid=0000620728))
 
 ----------
 
 *[헬스케어 소식]*
 
-1. "이젠 클라우드·메타버스株"…사업 다각화로 주목받는 한컴 [1] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=015&aid=0004596009))
+1. [D파이오니어를 만나다] 김정수 대표는… [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=105&oid=029&aid=0002694029))
 
-2. 유니티, ‘유니티 포 휴머니티 서밋 2021’ 개최…美아티스트 커먼 기조연설 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=105&oid=468&aid=0000785799))
-
-3. 한국콜마, 인체 미생물로 신약 만든다 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=011&aid=0003954466))
+2. [D파이오니어를 만나다] "어학·취미·운동… 일상 성취 돕는 `전국민 성공플랫폼` 만들 것" [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=105&oid=029&aid=0002694030))
 
