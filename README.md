@@ -1,84 +1,68 @@
 ## Daily News Monitoring 
 
-2021-08-28 
+2021-08-29 
 
 ----------
 
 ### Daily Hot Keywords 
 
-![word_cloud](image/2021-08-28_word_cloud.png)
+![word_cloud](image/2021-08-29_word_cloud.png)
 
 ----------
 
 *[ESG 소식]*
 
-1. 성동구, 발달 장애인 2차 백신 접종지원 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=277&aid=0004960369))
+1. 경제지의 '연회비 2천만원 ESG클럽' 돈벌이 실상은... [6] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=047&aid=0002324824))
+
+2. 마을 신재생 수익으로 월 10만원씩 연금…익산시, 2번째 마을도 추진 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=421&aid=0005568509))
 
 ----------
 
 *[금융 소식]*
 
-1. 뉴욕증시, 파월 발언 앞두고 상승 출발 [2] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=001&aid=0012626562))
+1. "은행 비이자수익 실적 미미…수익다각화 필요" [1] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=277&aid=0004960538))
 
-2. 재산 252억 신고한 이종인 총리 공보실장…160억 규모 부동산은 누락 [26] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=022&aid=0003614172))
+2. 대출 문턱 연달아 높아지자…"퇴직연금 중도인출 할까요" [56] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=277&aid=0004960534))
+
+3. 머지플러스 사태 늑장 대응...'제2 머지런' 방지 역부족 [2] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=052&aid=0001633338))
+
+4. [외인이 담은 바이오]외국인·기관투자자 ‘셀트리온’ 집중 매수 [34] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=018&aid=0005022342))
+
+5. [부동산 영끌의 종말①]이자부담 커졌는데…영끌족 어쩌나 [106] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=003&aid=0010688806))
+
+6. 세계은행, 베트남 올해 성장률 전망치 4.8%로 하향 [KVINA] [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=215&aid=0000981256))
+
+7. 기준 금리 인상 뒤 집값 어떻게 될까? [8] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=052&aid=0001633337))
 
 ----------
 
 *[보험 소식]*
 
-1. 고위험 신생아 집중 치료실 20병상…‘성장발달 클리닉’ 운영 [주목받는 전문센터 특화병원 (77)] [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=103&oid=032&aid=0003094697))
+1. 뉴스 보고 전화했지만…'선릉역 사고' 어머니의 눈물 [296] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=214&aid=0001144807))
 
-2. 환절기, 고혈압 전 단계라도 방심은 금물! [3] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=103&oid=032&aid=0003094693))
+2. "신용점수 높이려면 ○○하지 마세요"…금리 인상기 이자 한 푼이라도 아끼려면 [37] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=009&aid=0004844443))
 
-3. 신협 직원, 은행 수익금 10억여원 횡령…경찰 수사 착수 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=025&aid=0003130299))
+3. 실명 유발 3대 눈 질환, 40대에 10년간 2.7배 늘어 [6] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=103&oid=469&aid=0000626382))
 
-4. 배달 기사 숨진 선릉역 사고 현장에 추모 행렬..."속도 경쟁 내몰려" [1] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=052&aid=0001633077))
+4. [베트남증시 27일 마감시황] VN지수 0.93%(12.08p) 상승, 1313.20p '저가 매수세로 지수 반등 마감' [KVINA] [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=004&oid=215&aid=0000981259))
 
-5. 기준금리 인상에 부동산 시장 달라질까? [2] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=056&aid=0011109793))
+5. [사진] 선릉역 오토바이 배달원 사망 사고 추모공간 [62] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=047&aid=0002324832))
 
-6. "배달 전쟁 언제까지" 대낮 강남 한복판 라이더 사고 충격…"늦더라도 천천히" [97] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=009&aid=0004844316))
+6. "박정희 vs 김대중" 성공적 의료복지 과연 누구의 공일까요 [482] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=100&oid=009&aid=0004844444))
 
-7. 세종시 신협 직원, 10억 원 넘는 횡령 혐의 경찰 수사 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=052&aid=0001633096))
+7. [더 스페셜리스트] 카카오의 무한 확장, 괜찮을까? [211] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=055&aid=0000917573))
 
-8. 김흥국 "교통사고 보험사 합의금 지급 회피? 이미 동의" [224] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=015&aid=0004597198))
+8. "무분별한 악플은 멈춰달라"…선릉역 사망 라이더 유족의 호소 [814] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=421&aid=0005568610))
 
-9. 신협 직원이 13억 은행수익금 횡령해 주식 투자 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=056&aid=0011109733))
-
-10. 내년 직장인 건강보험료 월평균 2,475원 인상 [2] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=056&aid=0011109729))
-
-----------
-
-*[보험 헬스케어 소식]*
-
-1. 진안군, '농업인 복지증진 사업' 추진에 박차 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=629&aid=0000102883))
-
-2. 닥터다이어리,올들어 사업성 입증...본격 사업다각화 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=018&aid=0005021442))
-
-3. 코스피 장중 보합권 등락 3120선…'美 테이퍼링 경계감' [1] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=421&aid=0005567283))
-
-4. 외국인 매도세에…혼조세 나타내는 코스피·코스닥 [1] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=277&aid=0004960209))
-
-----------
-
-*[업계 소식]*
-
-1. 보험료 부담 줄어드나...공시·예정 이율 오를듯 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=016&aid=0001879919))
-
-2. 고승범 "삼성생명 암보험 징계, 법과 원칙에 따라 하겠다" [1] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=215&aid=0000981061))
+9. 유승민 국방안보 간담회…“軍 원격의료 도입” [3] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=100&oid=056&aid=0011110001))
 
 ----------
 
 *[헬스케어 소식]*
 
-1. 디지포레 박성훈 대표 “메타버스 속 세계를 연결하고 있습니다” [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=105&oid=020&aid=0003378611))
+1. “무기력해지고 냉소적이 된다면”…‘번아웃 증후군’ 의심해야 [20] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=103&oid=022&aid=0003614288))
 
-2. 금감원 '손태승 징계 패소' 금융사 후속제재에 영향 주나(종합) [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=001&aid=0012626272))
+2. [주간 추천주] 저평가주 관심…포스코·삼성물산·이마트 '러브콜' [56] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=031&aid=0000621009))
 
-3. 디지털 마케팅 업체 원시그널, 퍼포마스와 손잡고 한국 진출 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=105&oid=015&aid=0004597131))
-
-4. 금감원 '손태승 징계 패소' 금융사 후속제재에 영향 주나(종합2보) [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=001&aid=0012626361))
-
-5. 바디프랜드, KT와 5G 전용 요금제 '바디프랜드 초이스' 출시 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=076&aid=0003771766))
-
-6. "법적 근거도 없는 무리한 중징계"···우리은행, 한시름 덜었다 [1] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=011&aid=0003955385))
+3. 로킷헬스케어, ‘초개인화 융합 정밀치료 환자맞춤 바이오프린팅 시술’ 국내 선뵈 [1] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=014&aid=0004699419))
 
