@@ -1,76 +1,62 @@
 ## Daily News Monitoring 
 
-2021-08-30 
+2021-08-31 
 
 ----------
 
 ### Daily Hot Keywords 
 
-![word_cloud](image/2021-08-30_word_cloud.png)
+![word_cloud](image/2021-08-31_word_cloud.png)
 
 ----------
 
 *[ESG 소식]*
 
-1. 코트라 “ESG 대세에 대응해야 ‘선두 기업’ 된다” [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=032&aid=0003094854))
+1. [에너지공기업 뉴스] 동서발전, 코로나 혈액 수급난 극복 ‘헌혈 봉사’ 外 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=082&aid=0001116270))
 
-2. SK이노, 맹그로브 숲 복원사업…베트남서 공로상 받아 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=031&aid=0000621086))
+2. 남부발전·남동발전·서부발전·한전KPS, 전국품질경진대회 ‘우수한 성적표’ [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=082&aid=0001116266))
 
 ----------
 
 *[금융 소식]*
 
-1. 코로나 시대, 우리가 대비해야 할 미래는? [1] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=103&oid=052&aid=0001633633))
+1. 피튀기는 공모주 청약 전쟁…“여기가 청약 맛집입니다” [20] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=018&aid=0005023933))
 
-2. "1년 안에 갚을 대출이라면 아직은 고정 아닌 변동금리" [9] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=015&aid=0004597519))
-
-3. 지리 기술 제도 | 지나간 문명의 흐름 속에서 미래를 찾다 [1] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=110&oid=024&aid=0000070298))
-
-4. 전세 소멸…청년들에게 너무 가혹하다 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=110&oid=024&aid=0000070295))
-
-5. 한 방의 빅딜 vs 상시 M&A 금융 강자의 선택은 달랐다 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=110&oid=024&aid=0000070292))
-
-6. 전방위 '대출조이기' 속 1주일새 신용대출 6배 증가 [3] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=052&aid=0001633621))
-
-7. 이병철 KTB금융그룹 회장 | 순풍에 돛 단 듯…역대급 실적에 VC 상장도 [5] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=024&aid=0000070305))
-
-8. 인천도시공사, 올 상반기 당기순이익 1773억원 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=018&aid=0005023119))
-
-9. '미친 집값' 또 상승...수도권 14년 8개월 만에 '최고' [30] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=052&aid=0001633620))
+2. 고용유지지원금 만료 '코앞'…LCC, 고용절벽 내몰리나(종합) [1] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=003&aid=0010692143))
 
 ----------
 
 *[보험 소식]*
 
-1. 창원고용지청, “추석 앞두고 임금체불 대응” [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=056&aid=0011110231))
+1. 웰스파고 "청바지 새 사이클 시작"…리바이스 목표주가 상향 [강영연의 뉴욕오프닝] [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=015&aid=0004597997))
 
-2. 정의당 심상정 “34년 묵은 낡은 양당체제 불판 갈아야” 대선 출사표 [11] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=100&oid=032&aid=0003094833))
+2. 경찰, ‘양향자 前 보좌관 활동비 수수 의혹’ 수사 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=056&aid=0011110970))
 
-3. 막바지 더위에 흘린 땀, 갑상선기능항진증과 차이점은? [9] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=103&oid=346&aid=0000043825))
+3. 전자발찌 살인마, 기초수급 등 700만원 귀신같이 알고 챙겼다 [411] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=025&aid=0003130886))
 
-4. '대출절벽' 현실화…사금융 기웃거리는 서민 [53] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=277&aid=0004960781))
+----------
 
-5. 속도 경쟁에 희생된 노동자…이제는 멈춰야 한다 [‘선릉역 교통사고 사망’] [15] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=032&aid=0003094835))
+*[보험 헬스케어 소식]*
 
-6. “어디니” 선릉역 사고날 엄마의 문자…이미 떠난 아들은 받지 못했다 [220] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=023&aid=0003636869))
+1. [시황종합] 코스피, 기관 '사자'에 3140선 회복…외인은 현·선물 팔아 [16] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=421&aid=0005571897))
+
+2. 건보 심의위, 보험사 의료데이터 제공 심의건 놓고 고심...왜? [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=105&oid=092&aid=0002232096))
+
+3. ABL생명, ‘소중한종신보험’ 눈길… "차등 보험료 할인" [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=417&aid=0000730065))
+
+4. [시황] 코스피, 기관 홀로 '사자'에 상승…3140선 마감 [1] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=629&aid=0000103259))
+
+5. 현대해상, 스타트업 손 잡고 '디지털 생태계' 장악 나선다 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=105&oid=293&aid=0000036170))
 
 ----------
 
 *[업계 소식]*
 
-1. [전방위 대출규제②]머리 자르랬더니 아예 삭발?....당황한 금융당국 [55] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=003&aid=0010689375))
+1. '커피 원두 구독' 잘 나가네…원두데일리 고객 450사 달해 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=103&oid=009&aid=0004845106))
 
-2. '삼성전자 배당' 받은 보험사…상반기 영업이익 50%↑ [2] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=008&aid=0004637744))
+2. [특징주]대한항공, 송현동 매각 숨통에 외인 ‘사자’ [3] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=018&aid=0005023510))
 
-3. '코로나 반사익' 보험사 상반기 순익 5.7조 50%↑…三電배당 효과도 [3] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=421&aid=0005569071))
+3. [현장에서] 일자리 4만개와 삼성家의 사업보국 [10] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=016&aid=0001880624))
 
-----------
-
-*[헬스케어 소식]*
-
-1. SK㈜ C&C 'AI 뇌출혈 영상판독 솔루션' 3등급 의료기기 품목허가 획득 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=003&aid=0010689701))
-
-2. SDG에 부합하는 기업 선별… 다양한 국가·업종에 분산 투자 [이런 펀드 어때요?] [1] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=014&aid=0004699699))
-
-3. [2021 올해의 브랜드 대상] ICT·교육·서비스 부문 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=015&aid=0004597506))
+4. 삼성생명도 메타버스 탔다… 보험권에 ‘가상현실’ 열풍? [1] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=417&aid=0000729884))
 
