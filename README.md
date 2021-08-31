@@ -1,62 +1,66 @@
 ## Daily News Monitoring 
 
-2021-08-31 
+2021-09-01 
 
 ----------
 
 ### Daily Hot Keywords 
 
-![word_cloud](image/2021-08-31_word_cloud.png)
+![word_cloud](image/2021-09-01_word_cloud.png)
 
 ----------
 
 *[ESG 소식]*
 
-1. [에너지공기업 뉴스] 동서발전, 코로나 혈액 수급난 극복 ‘헌혈 봉사’ 外 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=082&aid=0001116270))
-
-2. 남부발전·남동발전·서부발전·한전KPS, 전국품질경진대회 ‘우수한 성적표’ [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=082&aid=0001116266))
+1. 국민이 바라는 기업 1위는…"일자리 창출 기업"(종합) [1] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=003&aid=0010694642))
 
 ----------
 
 *[금융 소식]*
 
-1. 피튀기는 공모주 청약 전쟁…“여기가 청약 맛집입니다” [20] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=018&aid=0005023933))
+1. 통신비 잘 내면…가전 렌털 서비스 ‘케어솔루션’ [포토뉴스] [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=105&oid=032&aid=0003095454))
 
-2. 고용유지지원금 만료 '코앞'…LCC, 고용절벽 내몰리나(종합) [1] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=003&aid=0010692143))
+2. 카카오페이, 공모가 희망범위 6만~9만원으로 낮춰 [4] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=022&aid=0003615207))
+
+3. 뉴욕증시, 차익실현에 하락 출발 [2] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=001&aid=0012633728))
+
+4. 코스닥 시총 10위 중 2개가 2차전지… 하반기도 기대감 '쑥' [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=018&aid=0005024832))
+
+5. 윤곽 드러나는 탈레반 내각…"외무장관에 탈레반 정치국장" [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=104&oid=032&aid=0003095456))
+
+6. 국민의힘 윤재옥 의원, 21대 국회 전반기 정무위원장 선출 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=100&oid=022&aid=0003615205))
+
+7. 박교선·이경돈·정진호, 법무법인 세종 대표변호사 선임 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=025&aid=0003131279))
 
 ----------
 
 *[보험 소식]*
 
-1. 웰스파고 "청바지 새 사이클 시작"…리바이스 목표주가 상향 [강영연의 뉴욕오프닝] [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=015&aid=0004597997))
+1. ‘다둥이 가정’ 연금보험료 지급 행정심판 각하 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=056&aid=0011111874))
 
-2. 경찰, ‘양향자 前 보좌관 활동비 수수 의혹’ 수사 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=056&aid=0011110970))
+2. 오늘의 인사 - 2021년 9월 1일 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=032&aid=0003095432))
 
-3. 전자발찌 살인마, 기초수급 등 700만원 귀신같이 알고 챙겼다 [411] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=025&aid=0003130886))
+3. 법원 “퇴직 금융관료 포진한 금융계, ‘탐욕’ 통제 오작동” [1] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=032&aid=0003095427))
 
 ----------
 
 *[보험 헬스케어 소식]*
 
-1. [시황종합] 코스피, 기관 '사자'에 3140선 회복…외인은 현·선물 팔아 [16] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=421&aid=0005571897))
+1. 내년 복지부 예산 96.9조원 8.2%↑…취약층 생활안정·출산 장려 '중점' [1] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=215&aid=0000981736))
 
-2. 건보 심의위, 보험사 의료데이터 제공 심의건 놓고 고심...왜? [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=105&oid=092&aid=0002232096))
+2. 복지부 내년 예산안 96조9377억원 편성…전년비 8.2%↑ [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=421&aid=0005573354))
 
-3. ABL생명, ‘소중한종신보험’ 눈길… "차등 보험료 할인" [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=417&aid=0000730065))
+3. [2022 예산안] 정부, 604조4000억원 ‘슈퍼 예산안’ 편성 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=119&aid=0002525639))
 
-4. [시황] 코스피, 기관 홀로 '사자'에 상승…3140선 마감 [1] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=629&aid=0000103259))
-
-5. 현대해상, 스타트업 손 잡고 '디지털 생태계' 장악 나선다 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=105&oid=293&aid=0000036170))
+4. [르포] 신한라이프 헬스케어룸 가보니…"건강할 때 고객 챙기자" [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=105&oid=092&aid=0002232201))
 
 ----------
 
-*[업계 소식]*
+*[헬스케어 소식]*
 
-1. '커피 원두 구독' 잘 나가네…원두데일리 고객 450사 달해 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=103&oid=009&aid=0004845106))
+1. [밸류체인 변화, 혁신기업이 뛴다] 코로나로 중장년층 이용자 2배나 `껑충` [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=029&aid=0002694680))
 
-2. [특징주]대한항공, 송현동 매각 숨통에 외인 ‘사자’ [3] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=018&aid=0005023510))
+2. [밸류체인 변화, 혁신기업이 뛴다] `애니핏 2.0` 보험 넘어 헬스케어… 운동하며 질병위험 분석까지 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=029&aid=0002694681))
 
-3. [현장에서] 일자리 4만개와 삼성家의 사업보국 [10] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=016&aid=0001880624))
-
-4. 삼성생명도 메타버스 탔다… 보험권에 ‘가상현실’ 열풍? [1] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=417&aid=0000729884))
+3. 내년 정부 예산안 편성…강원 국비 8조 원 확보 관심 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=056&aid=0011111633))
 
