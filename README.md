@@ -1,66 +1,84 @@
 ## Daily News Monitoring 
 
-2021-09-01 
+2021-09-02 
 
 ----------
 
 ### Daily Hot Keywords 
 
-![word_cloud](image/2021-09-01_word_cloud.png)
+![word_cloud](image/2021-09-02_word_cloud.png)
 
 ----------
 
 *[ESG 소식]*
 
-1. 국민이 바라는 기업 1위는…"일자리 창출 기업"(종합) [1] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=003&aid=0010694642))
+1. [미리보는 이데일리 신문]통곡의 대출절벽… 월세 탈출도 막힌 서민 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=018&aid=0005025755))
+
+2. SGC에너지, 온실가스 감축으로 탄소중립 행보 시작 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=002&aid=0002208088))
 
 ----------
 
 *[금융 소식]*
 
-1. 통신비 잘 내면…가전 렌털 서비스 ‘케어솔루션’ [포토뉴스] [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=105&oid=032&aid=0003095454))
+1. [세계포럼] 혼돈의 통화·재정정책 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=110&oid=022&aid=0003615606))
 
-2. 카카오페이, 공모가 희망범위 6만~9만원으로 낮춰 [4] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=022&aid=0003615207))
+2. 뉴욕증시, 민간 고용 부진 속 혼조세로 출발 [1] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=001&aid=0012636578))
 
-3. 뉴욕증시, 차익실현에 하락 출발 [2] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=001&aid=0012633728))
+3. HMM 추가교섭 결론없이 끝나…내일 재협상한다 [7] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=001&aid=0012636589))
 
-4. 코스닥 시총 10위 중 2개가 2차전지… 하반기도 기대감 '쑥' [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=018&aid=0005024832))
-
-5. 윤곽 드러나는 탈레반 내각…"외무장관에 탈레반 정치국장" [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=104&oid=032&aid=0003095456))
-
-6. 국민의힘 윤재옥 의원, 21대 국회 전반기 정무위원장 선출 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=100&oid=022&aid=0003615205))
-
-7. 박교선·이경돈·정진호, 법무법인 세종 대표변호사 선임 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=025&aid=0003131279))
+4. HMM 노사, 임단협 교섭 2일 재개하기로...합의점 찾기에 '골몰' [26] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=469&aid=0000627246))
 
 ----------
 
 *[보험 소식]*
 
-1. ‘다둥이 가정’ 연금보험료 지급 행정심판 각하 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=056&aid=0011111874))
+1. MG손해보험, 일하는 문화 개선 위한 'WE캠페인' 시행 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=057&aid=0001604521))
 
-2. 오늘의 인사 - 2021년 9월 1일 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=032&aid=0003095432))
+2. [다문화칼럼함께하는세상] 이민가정 첫째로 산다는 것 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=110&oid=022&aid=0003615602))
 
-3. 법원 “퇴직 금융관료 포진한 금융계, ‘탐욕’ 통제 오작동” [1] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=032&aid=0003095427))
+3. 식품진흥원, 농금원 투자지원센터 유치 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=002&aid=0002208092))
+
+4. 비어가는 '고용기금'...결국 보험료 0.2%p 인상 [16] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=052&aid=0001635077))
+
+5. 적립금 10조 다 까먹고, 고용보험료 또 올린다 [38] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=023&aid=0003637628))
+
+6. 익산시, 농식품 분야 투자 기반 확대' [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=002&aid=0002208091))
+
+7. "놀랐으니 대인 접수해달라"…오토바이 사고 내놓고 '적반하장'(영상) [94] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=082&aid=0001116885))
 
 ----------
 
 *[보험 헬스케어 소식]*
 
-1. 내년 복지부 예산 96.9조원 8.2%↑…취약층 생활안정·출산 장려 '중점' [1] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=215&aid=0000981736))
+1. 롯데손보, 체증형 구조 '렛점프 건강보험' 출시 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=119&aid=0002526193))
 
-2. 복지부 내년 예산안 96조9377억원 편성…전년비 8.2%↑ [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=421&aid=0005573354))
+2. 롯데손해보험, 나중에 보장금액 높일 수 있는 '렛점프 종합건강보험' 출시 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=031&aid=0000621756))
 
-3. [2022 예산안] 정부, 604조4000억원 ‘슈퍼 예산안’ 편성 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=119&aid=0002525639))
+----------
 
-4. [르포] 신한라이프 헬스케어룸 가보니…"건강할 때 고객 챙기자" [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=105&oid=092&aid=0002232201))
+*[업계 소식]*
+
+1. 삼성생명, 채팅 상담내역 수십건 유출…한달 넘게 지나 공지 [5] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=374&aid=0000256450))
+
+2. [초점] 이재용, 상속 후 삼성 지배력 확대…10대 기업 총수 장악력 ↑ [35] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=031&aid=0000621807))
+
+3. 확대된 일감 몰아주기 규제 '사각지대'…IT기업 총수 2세 지분 증가 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=032&aid=0003095599))
+
+4. 일감 몰아주기 '사각지대' 회사 56곳 껑충…대방건설 최다(종합) [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=003&aid=0010696807))
+
+5. 삼성 썬더스농구단 용인 훈련시설서 코로나19 11명 추가…총 14명 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=214&aid=0001145597))
+
+6. 총수 일가, 지분 3.5%로 지배…급성장 네이버·카카오 등 IT 대기업 사익편취 주목 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=374&aid=0000256456))
 
 ----------
 
 *[헬스케어 소식]*
 
-1. [밸류체인 변화, 혁신기업이 뛴다] 코로나로 중장년층 이용자 2배나 `껑충` [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=029&aid=0002694680))
+1. ‘이베이’ 놓친 신동빈, ‘가구 1위’ 한샘 품을까…“투자 검토중” [1] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=243&aid=0000015827))
 
-2. [밸류체인 변화, 혁신기업이 뛴다] `애니핏 2.0` 보험 넘어 헬스케어… 운동하며 질병위험 분석까지 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=029&aid=0002694681))
+2. 검은 돌, 붉은 흙, 초록 숲 사이로…들이쉬고, 내쉬고 오롯이 쉬고 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=103&oid=032&aid=0003095625))
 
-3. 내년 정부 예산안 편성…강원 국비 8조 원 확보 관심 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=056&aid=0011111633))
+3. 바이오·헬스케어·수소… 롯데, 신사업 시동 [1] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=082&aid=0001116851))
+
+4. [시황] 코스피, 외인 순매수에 3200선 회복…4일째 상승 랠리 [1] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=629&aid=0000103831))
 
