@@ -1,80 +1,80 @@
 ## Daily News Monitoring 
 
-2021-09-03 
+2021-09-04 
 
 ----------
 
 ### Daily Hot Keywords 
 
-![word_cloud](image/2021-09-03_word_cloud.png)
+![word_cloud](image/2021-09-04_word_cloud.png)
 
 ----------
 
 *[ESG 소식]*
 
-1. [공기업뉴스] 조폐공사, ‘코로나 상생 국민지원금’ 신청시스템 구축 外 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=082&aid=0001117156))
+1. 남양주시, 주부에코폴리스 지구대원 위촉 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=103&oid=310&aid=0000090326))
+
+2. 한국남동발전, 청년창업 ESG 아이디어 대국민 공모전 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=002&aid=0002208535))
+
+3. 주택금융공사,주거안정 위한 ESG 경영활성화 협약 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=018&aid=0005028059))
+
+4. [펀드줌인] ‘KB주주가치포커스펀드’ 가치투자에 ESG 반영···3년 수익률 65% [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=011&aid=0003958399))
 
 ----------
 
 *[금융 소식]*
 
-1. 국제 수급 불균형에 알루미늄값 상승…알미늄株 '쑥' [2] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=018&aid=0005026772))
+1. 비트코인, 장중 5만달러 돌파 [강영연의 뉴욕오프닝] [1] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=015&aid=0004600332))
 
-2. 시진핑 "베이징에 증권거래소 설립할 것" [3] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=104&oid=009&aid=0004847030))
+2. 靑, 황현선 논란에 "청와대가 관여하는 인사 아냐" [97] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=100&oid=052&aid=0001636018))
 
-3. 현대重, 기업설명회 개최…"친환경 선박, 선제적 투자로 초격차 달성"(종합) [6] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=003&aid=0010699510))
+3. 전세 물량 줄고 수요는 늘고...가을 이사철 전세대란 우려 [22] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=052&aid=0001636032))
 
-4. 통신株 가파른 주가반등…배당 매력까지 [1] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=018&aid=0005026769))
+4. 'MZ 개미' 늘며 세이브로 접속량 30% 쑥···해외주식·공매도 정보 '광클' [3] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=011&aid=0003958435))
+
+5. 대전경찰·방송 3사 ‘안전하고 살기좋은 지역사회 만들기’ 협약 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=056&aid=0011114260))
+
+6. 가계부채·집값 문제 해결 위해 손 맞잡은 한은·금융위 [67] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=052&aid=0001636033))
 
 ----------
 
 *[보험 소식]*
 
-1. 뉴욕증시, 주간 실업 지표 개선에 상승 출발 [3] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=366&aid=0000758890))
+1. '외계인 기술' 포르쉐, 제네시스가 5번 물리쳤다 [왜몰랐을카] [497] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=103&oid=009&aid=0004847508))
 
-2. 미국 주간 신규실업보험 청구자, 34만명 '내림세' [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=277&aid=0004963636))
+2. DB손해보험, 신용대출 연말까지 중단…"당국 총량관리방침따라" [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=215&aid=0000982578))
 
-3. [사설] 헛발질 대책으로 집값 폭등시켜놓고 언론 탓이라니 [4] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=110&oid=022&aid=0003615997))
+3. DB손보, 연말까지 신용대출 신규 중단…보험사중 처음 [1] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=421&aid=0005582443))
 
-4. 뉴욕증시, 주간 실업 지표 개선에 상승 출발 [4] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=001&aid=0012639455))
+4. 급성 심장질환 환자 위한 ‘핫라인 시스템’ 24시간 운영 [주목받는 전문센터 특화병원 (78)] [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=103&oid=032&aid=0003096157))
+
+5. 오토바이 가속장치 당겨 사고 낸 할아버지 "실은 도와주려다..." [37] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=469&aid=0000627683))
+
+6. [김주하의 '그런데'] 고용보험 부정수급 판치는데 [32] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=057&aid=0001605058))
+
+7. [영상] ‘오토바이 사고 유발’ 노인의 반전 사실 [28] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=016&aid=0001883231))
 
 ----------
 
 *[보험 헬스케어 소식]*
 
-1. 코스피, 외인+기관 팔자에 1% 하락 3170선…카카오뱅크 7%↓ [3] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=421&aid=0005579457))
+1. 첨단 의료기기 박람회 개막…"코로나19 방역 강화" [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=003&aid=0010699932))
 
-2. 文정부 규제혁신 4년…규제샌드박스로 2조원 투자,고용 4천명 창출 [6] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=008&aid=0004639917))
+2. 코스피, 반발 매수세에 상승 출발…3200선 목전 [1] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=015&aid=0004599880))
 
-3. 디지털 헬스케어 스타트업, ‘실적’으로 승부수 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=144&aid=0000759388))
+3. "내 진료 기록 공개?"…'의료 데이터' 개방 명과 암 [4] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=648&aid=0000003483))
 
 ----------
 
 *[업계 소식]*
 
-1. 한국생명의전화, 오는 4일 '사람사랑 생명사랑 밤길걷기' 캠페인 개최 [20] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=018&aid=0005026700))
-
-2. 금감원, 이재용 부회장 삼성생명 대주주 적격 판단 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=056&aid=0011113299))
-
-3. 금감원, 이재용 부회장 삼성생명 대주주 '적격' 판단 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=052&aid=0001635533))
-
-4. 금감원 관계자 "이재용, 삼성생명 대주주 '적격' 판단" [3] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=277&aid=0004963584))
-
-5. “생명은 소중해요”…서울·부산서 일루미네이션 점등 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=103&oid=016&aid=0001882733))
-
-6. 금감원, 이재용 부회장 삼성생명 대주주 자격 '적격' 판단 [13] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=031&aid=0000622091))
-
-7. 금감원, 이재용 부회장 삼성생명 대주주 '적격' 판단 [1] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=001&aid=0012639030))
+1. 보험사까지 대출 막혀…DB손보, 연말까지 신용대출 중단 [1] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=015&aid=0004600157))
 
 ----------
 
 *[헬스케어 소식]*
 
-1. 코트라, 스타트업 해외 진출 돕는다 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=029&aid=0002695113))
+1. 중국, 오프라인 대규모 무역박람회 개최…코로나19 극복 과시 [4] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=104&oid=001&aid=0012641458))
 
-2. 10년간 액면분할 기업 주가 분석해보니… 45%가 마이너스 수익률 [3] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=243&aid=0000015866))
-
-3. "1:1 코칭받는 '홈트', 출석률 70%의 비결" [fn이사람] [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=014&aid=0004702735))
-
-4. 전남도, 유망 中企 15개사 '스타기업'으로 키운다 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=014&aid=0004702653))
+2. LG디스플레이, '패션·뷰티·관광·의료'분야 스타트업과 협업 [2] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=008&aid=0004640602))
 
