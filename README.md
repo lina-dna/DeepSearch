@@ -1,82 +1,82 @@
 ## Daily News Monitoring 
 
-2021-09-06 
+2021-09-07 
 
 ----------
 
 ### Daily Hot Keywords 
 
-![word_cloud](image/2021-09-06_word_cloud.png)
+![word_cloud](image/2021-09-07_word_cloud.png)
 
 ----------
 
 *[ESG 소식]*
 
-1. LG전자 의류 재활용 캠페인 영상 1000만뷰 돌파 [1] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=014&aid=0004703656))
-
-2. 국내 주식형 공모펀드 자금 두달째 순유입 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=029&aid=0002695387))
-
-3. 광주도시철도, 행안부 경영평가서 전국 1위 '최우수기관 선정' [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=079&aid=0003549409))
-
-4. MZ 소비트렌드 친환경… 4050보다 돈 더 많이 써 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=029&aid=0002695428))
-
-5. 이재용, 추석에 美출장 나설까…4대그룹 총수 미래 전략 고심 [2] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=014&aid=0004703609))
-
-6. 현대글로비스, 가스 해상운송 본격 진출 [1] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=014&aid=0004703610))
-
-7. 흰 골프화가 밋밋하다구요?…요즘 트렌드를 모르시는군요 [6] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=009&aid=0004847897))
-
-8. 추석선물세트 포장도 `친환경 바람` 분다 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=029&aid=0002695433))
+1. 대한항공, 국내선 항공편에 '탄소중립항공유' 사용한다 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=011&aid=0003959254))
 
 ----------
 
 *[금융 소식]*
 
-1. [DD 주간브리핑] 델 테크놀로지스가 제시하는 ESG 전략은?… 9일 연례 포럼 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=105&oid=138&aid=0002109788))
+1. 고민정 "곳간에 돈 쌓아두는 이유 뭐냐"…홍남기 "비어간다" [72] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=100&oid=025&aid=0003132854))
 
-2. '걷는' 예금금리 위 '나는' 대출금리... "예대금리 불균형 더 커진다" [88] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=469&aid=0000627898))
+2. 또 금융공기업 '낙하산' 논란…슬쩍 발뺀 예탁원 [11] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=018&aid=0005030695))
 
-3. 비트나인, 코스닥 상장 출사표 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=277&aid=0004964560))
+3. 탈레반 "韓 대사관 열어달라…美 확보 무기 北 판매 없다" [70] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=104&oid=018&aid=0005030698))
 
-4. [시사기획 창] 진격의 거인, 어디까지 카카오 [10] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=056&aid=0011114736))
+----------
 
-5. 中 베이징 주식시장, 연말쯤 설립...미중, 금융 '결별'도 본격화 [2] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=104&oid=052&aid=0001636567))
+*[당사 소식]*
 
-6. 부자 10계명 제 1계명은?…"돈, 쫓지말고 굴려라" [39] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=018&aid=0005029933))
+1. “세븐틴이 건강 코치를?” 시그나, 하이브와 헬스케어 콘텐츠 선봬 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=018&aid=0005030311))
 
-7. “월급 얼마에요?” 초등생 질문에 마크롱 “세후 1170만원” [165] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=104&oid=023&aid=0003638395))
+2. 세븐틴이 '건강 코치'…시그나, 헬스케어 플랫폼 'TUNE H' 선보여 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=076&aid=0003775783))
+
+3. 조지은 라이나생명 사장 "헬스케어 서비스의 틀을 깨자" [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=417&aid=0000732140))
+
+4. 시그나, 헬스케어 서비스 '튠H' 출시…하이브와 협업 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=277&aid=0004964801))
+
+5. 시그나 헬스케어 튠 H, '하이브 세븐틴'과 콜라보 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=119&aid=0002527433))
+
+6. 라이나생명, 시그나 헬스케어플랫폼 TUNE H에 ‘세븐틴’ 참여 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=004&oid=123&aid=0002254054))
 
 ----------
 
 *[보험 소식]*
 
-1. 경상국립대 '한일 공동 고등교육 유학생 교류사업' 선정 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=079&aid=0003549421))
+1. [기고] ‘일할 수 있는 사회’와 법제 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=110&oid=022&aid=0003617080))
 
-2. 국민지원금 내일부터 신청...1인당 25만 원 [8] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=052&aid=0001636547))
+2. "내가 상위 12%?" 곳곳서 불만…오늘(6일)부터 국민지원금 이의 신청도 접수 [49] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=022&aid=0003617075))
+
+3. 배송일로 月 300만원 버는 20대男, 1억원 아우디 구매한 사연 [528] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=103&oid=023&aid=0003638631))
+
+----------
+
+*[보험 헬스케어 소식]*
+
+1. 핀테크 등장하며 금융서도 다양한 혁신 서비스 선보여… 은행앱으로 음식배달, AI가 대출계약처리도 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=004&oid=009&aid=0004848177))
+
+2. NDS, 개인건강관리 플랫폼 ‘라이프월릿 2.0’ 출시 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=105&oid=029&aid=0002695479))
+
+3. 인기협, 디지털 치료제 발전 방향 글로벌 간담회 개최 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=105&oid=092&aid=0002232824))
 
 ----------
 
 *[업계 소식]*
 
-1. 올해 IPO 공모액 16조 돌파…역대 최대 2010년 1.6배 [2] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=366&aid=0000759307))
-
-2. [명의를 찾아서] 성기철 강북삼성병원 심장센터장 “심장 질환 치료의 시작은 정확한 혈압 측정” [1] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=105&oid=366&aid=0000759275))
-
-3. 올해 IPO 공모액 16조 돌파…역대 최대 2010년 1.6배 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=056&aid=0011114558))
+1. '퇴직연금 강자였는데'… 보험사, 저수익률에 점유율 '뚝뚝' [1] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=243&aid=0000015976))
 
 ----------
 
 *[헬스케어 소식]*
 
-1. 깐깐해진 심사에···상장 자진 철회하는 바이오업계 [1] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=011&aid=0003958690))
+1. 바이오·헬스케어 특화에 박차, 2021성남국제의료관광컨벤션 개최 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=105&oid=020&aid=0003380502))
 
-2. 데이터 몰라도 '디지털 혁신' 알아서 해주네 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=105&oid=009&aid=0004847785))
+2. 외국인 5거래일째 `사자`… 코스피 3200선 마감 [1] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=029&aid=0002695595))
 
-3. 동신대, 전체 39개 중 36개 학과 입학등록금 '0원' [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=079&aid=0003549410))
+3. `글로벌 R&D 멘토` 해외 한인 공학자 도움 받으세요 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=029&aid=0002695592))
 
-4. 스마트워치 대중화 속도…삼성 ‘갤워치4’로 애플에 도전장 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=105&oid=382&aid=0000931648))
+4. MBN[토요포커스] 조정일 코나아이 대표 “전국 모든 곳에서 지역화폐 사용 가능" [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=057&aid=0001605595))
 
-5. 광주시, 6일부터 AI의료지원플랫폼 참여기관 공모 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=421&aid=0005584183))
-
-6. 고려대 메디사이언스 파크, 오는 26일까지 입주기업 모집 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=103&oid=468&aid=0000787641))
+5. 삼성전자, 외국인 5일 연속 ‘사자’…석 달만에 처음 [3] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=029&aid=0002695584))
 
