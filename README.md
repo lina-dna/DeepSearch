@@ -1,82 +1,82 @@
 ## Daily News Monitoring 
 
-2021-09-07 
+2021-09-08 
 
 ----------
 
 ### Daily Hot Keywords 
 
-![word_cloud](image/2021-09-07_word_cloud.png)
+![word_cloud](image/2021-09-08_word_cloud.png)
 
 ----------
 
 *[ESG 소식]*
 
-1. 대한항공, 국내선 항공편에 '탄소중립항공유' 사용한다 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=011&aid=0003959254))
+1. SK, 중국 렌터카 사업서 손뗀다…토요타파이낸셜에 매각 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=103&oid=032&aid=0003096890))
 
 ----------
 
 *[금융 소식]*
 
-1. 고민정 "곳간에 돈 쌓아두는 이유 뭐냐"…홍남기 "비어간다" [72] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=100&oid=025&aid=0003132854))
+1. 현대중공업 청약 첫날 증거금 5조 넘어… 경쟁률 40대 1 [2] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=022&aid=0003617496))
 
-2. 또 금융공기업 '낙하산' 논란…슬쩍 발뺀 예탁원 [11] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=018&aid=0005030695))
+2. 곧 배당투자 계절…찬 바람 불기 전 담아둘 배당株는? [4] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=018&aid=0005031521))
 
-3. 탈레반 "韓 대사관 열어달라…美 확보 무기 北 판매 없다" [70] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=104&oid=018&aid=0005030698))
+3. 이게 불법이었다고? 네이버·카카오 날벼락 맞았다 [77] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=025&aid=0003133174))
 
-----------
+4. 안 나가는 조선주, 현대重 상장에 동반 순항할까 [2] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=018&aid=0005031525))
 
-*[당사 소식]*
+5. 경상수지 15개월째 흑자...올해 800억 달러 흑자 기대 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=052&aid=0001637519))
 
-1. “세븐틴이 건강 코치를?” 시그나, 하이브와 헬스케어 콘텐츠 선봬 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=018&aid=0005030311))
-
-2. 세븐틴이 '건강 코치'…시그나, 헬스케어 플랫폼 'TUNE H' 선보여 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=076&aid=0003775783))
-
-3. 조지은 라이나생명 사장 "헬스케어 서비스의 틀을 깨자" [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=417&aid=0000732140))
-
-4. 시그나, 헬스케어 서비스 '튠H' 출시…하이브와 협업 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=277&aid=0004964801))
-
-5. 시그나 헬스케어 튠 H, '하이브 세븐틴'과 콜라보 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=119&aid=0002527433))
-
-6. 라이나생명, 시그나 헬스케어플랫폼 TUNE H에 ‘세븐틴’ 참여 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=004&oid=123&aid=0002254054))
+6. 코이카, 기업협력 자문위원 위촉 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=100&oid=018&aid=0005031520))
 
 ----------
 
 *[보험 소식]*
 
-1. [기고] ‘일할 수 있는 사회’와 법제 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=110&oid=022&aid=0003617080))
+1. 암 환자에게 위험한… 치명적인 '병'은? [1] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=103&oid=346&aid=0000044111))
 
-2. "내가 상위 12%?" 곳곳서 불만…오늘(6일)부터 국민지원금 이의 신청도 접수 [49] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=022&aid=0003617075))
-
-3. 배송일로 月 300만원 버는 20대男, 1억원 아우디 구매한 사연 [528] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=103&oid=023&aid=0003638631))
+2. 임대보증보험 가입 요건 완화...처벌규정도 낮춰 [1] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=052&aid=0001637513))
 
 ----------
 
 *[보험 헬스케어 소식]*
 
-1. 핀테크 등장하며 금융서도 다양한 혁신 서비스 선보여… 은행앱으로 음식배달, AI가 대출계약처리도 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=004&oid=009&aid=0004848177))
+1. 국내 첫 영리병원 취소 소송 대법원으로 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=022&aid=0003617445))
 
-2. NDS, 개인건강관리 플랫폼 ‘라이프월릿 2.0’ 출시 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=105&oid=029&aid=0002695479))
+2. 국민은행의 발 빠른 '디지털 혁신'…AI 접목 플랫폼으로 접근성 높여 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=015&aid=0004601625))
 
-3. 인기협, 디지털 치료제 발전 방향 글로벌 간담회 개최 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=105&oid=092&aid=0002232824))
+3. 삼성화재, 건강관리 서비스 '애니핏 2.0' AI가 부족한 보장 추천 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=015&aid=0004601617))
+
+4. 月 800만명 쓰는 'KB스타뱅킹'…수십년 노하우로 맞춤 자산관리 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=015&aid=0004601629))
+
+5. 보험업계만 메타버스 활용 시기상조?…높은 고객 연령에 '고심' [1] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=031&aid=0000622845))
+
+6. [뉴스브리핑] 2차 추경예산 통과…“목적에 맞게 기금 운용해야” 외 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=056&aid=0011116086))
+
+7. 전경련, 韓-臺 경협위 개최…반도체·스마트시티·바이오 협력 논의 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=119&aid=0002528100))
 
 ----------
 
 *[업계 소식]*
 
-1. '퇴직연금 강자였는데'… 보험사, 저수익률에 점유율 '뚝뚝' [1] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=243&aid=0000015976))
+1. 일자리 늘리겠다고 약속한 삼성, 20개 계열사 하반기 대졸 공채 시작 [4] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=015&aid=0004601626))
+
+2. 삼성, 20개사 대졸공채...13일 원서접수 마감 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=015&aid=0004601619))
+
+3. '고용 늘리겠다' 약속한 삼성, 하반기 대규모 공채 스타트 [6] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=011&aid=0003959743))
+
+4. "삼성 올 하반기 6천명 채용"…언제 지원하고 무슨 시험보나 [10] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=009&aid=0004849191))
 
 ----------
 
 *[헬스케어 소식]*
 
-1. 바이오·헬스케어 특화에 박차, 2021성남국제의료관광컨벤션 개최 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=105&oid=020&aid=0003380502))
+1. 삼성·네이버·카카오·통신3사 등 IT업계 수장들 한 자리에 모인 이유는? [4] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=105&oid=022&aid=0003617481))
 
-2. 외국인 5거래일째 `사자`… 코스피 3200선 마감 [1] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=029&aid=0002695595))
+2. "한·대만, CPTPP 동시가입해야"…전경련, 경협위서 건의(종합) [2] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=003&aid=0010707339))
 
-3. `글로벌 R&D 멘토` 해외 한인 공학자 도움 받으세요 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=029&aid=0002695592))
+3. “삼성·통신사·네이버·카카오 AI 뭉친다”…초거대 AI 협의체 출범 [11] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=105&oid=016&aid=0001884675))
 
-4. MBN[토요포커스] 조정일 코나아이 대표 “전국 모든 곳에서 지역화폐 사용 가능" [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=057&aid=0001605595))
-
-5. 삼성전자, 외국인 5일 연속 ‘사자’…석 달만에 처음 [3] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=029&aid=0002695584))
+4. AI 글로벌 주도권 잡자…삼성·네이버·카카오·통신사 협력 [3] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=003&aid=0010707313))
 
