@@ -1,82 +1,72 @@
 ## Daily News Monitoring 
 
-2021-09-08 
+2021-09-09 
 
 ----------
 
 ### Daily Hot Keywords 
 
-![word_cloud](image/2021-09-08_word_cloud.png)
+![word_cloud](image/2021-09-09_word_cloud.png)
 
 ----------
 
 *[ESG 소식]*
 
-1. SK, 중국 렌터카 사업서 손뗀다…토요타파이낸셜에 매각 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=103&oid=032&aid=0003096890))
+1. 도드람, 코로나19로 어려움 겪는 김제시 취약계층 돕기 나서 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=417&aid=0000733285))
+
+2. 정의선은 수소차, 최태원은 수소 생산… “글로벌 3000조 시장 선점” [15] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=103&oid=023&aid=0003639159))
 
 ----------
 
 *[금융 소식]*
 
-1. 현대중공업 청약 첫날 증거금 5조 넘어… 경쟁률 40대 1 [2] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=022&aid=0003617496))
+1. [설왕설래] 알박기 인사 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=110&oid=022&aid=0003617903))
 
-2. 곧 배당투자 계절…찬 바람 불기 전 담아둘 배당株는? [4] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=018&aid=0005031521))
+2. 포항시, 미래신산업 성장 토대 구축...'빅데이터 추진 협의회 발대식' [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=277&aid=0004966537))
 
-3. 이게 불법이었다고? 네이버·카카오 날벼락 맞았다 [77] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=025&aid=0003133174))
+3. KAIST "15년 뒤 현실과 가상공간 경계 흐릿해질 것···메타버스로 교육·문화·산업 전반 빅뱅" [7] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=105&oid=011&aid=0003960343))
 
-4. 안 나가는 조선주, 현대重 상장에 동반 순항할까 [2] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=018&aid=0005031525))
-
-5. 경상수지 15개월째 흑자...올해 800억 달러 흑자 기대 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=052&aid=0001637519))
-
-6. 코이카, 기업협력 자문위원 위촉 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=100&oid=018&aid=0005031520))
+4. 코인거래소 무더기 폐쇄 대비…경찰, 전담수사팀 전국 설치 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=009&aid=0004849906))
 
 ----------
 
 *[보험 소식]*
 
-1. 암 환자에게 위험한… 치명적인 '병'은? [1] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=103&oid=346&aid=0000044111))
+1. 경적 울렸다고 욕하며 끼어든 차…"이래도 보복운전 아니래요" [103] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=008&aid=0004642725))
 
-2. 임대보증보험 가입 요건 완화...처벌규정도 낮춰 [1] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=052&aid=0001637513))
+2. 고민정 “내가 상위 12%?…불만 제기 당연” [4] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=100&oid=005&aid=0001469590))
+
+3. 9월9일 알림 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=028&aid=0002559816))
+
+4. 실업급여 중단 뉴스에 美 상원 의원 “취업하면 되잖아?” [1] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=104&oid=023&aid=0003639158))
+
+5. 충북 코로나19 연쇄감염 계속…“교회발 집단 확산 우려” [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=056&aid=0011117103))
 
 ----------
 
 *[보험 헬스케어 소식]*
 
-1. 국내 첫 영리병원 취소 소송 대법원으로 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=022&aid=0003617445))
+1. 카카오·네이버 '충격파' 코스피, 외국인·기관 '팔자'에 휘청 [15] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=008&aid=0004642548))
 
-2. 국민은행의 발 빠른 '디지털 혁신'…AI 접목 플랫폼으로 접근성 높여 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=015&aid=0004601625))
+2. [마감시황]코스피, 외인·기관 동반 매도에 이틀 연속 하락 [5] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=003&aid=0010709340))
 
-3. 삼성화재, 건강관리 서비스 '애니핏 2.0' AI가 부족한 보장 추천 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=015&aid=0004601617))
+3. [마감] 코스피, 외인·기관 매도세 확대… 3160선 마감 [1] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=417&aid=0000733187))
 
-4. 月 800만명 쓰는 'KB스타뱅킹'…수십년 노하우로 맞춤 자산관리 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=015&aid=0004601629))
-
-5. 보험업계만 메타버스 활용 시기상조?…높은 고객 연령에 '고심' [1] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=031&aid=0000622845))
-
-6. [뉴스브리핑] 2차 추경예산 통과…“목적에 맞게 기금 운용해야” 외 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=056&aid=0011116086))
-
-7. 전경련, 韓-臺 경협위 개최…반도체·스마트시티·바이오 협력 논의 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=119&aid=0002528100))
+4. [시황종합] 코스피 0.77%↓ 3160선…카카오 10%·네이버 7% 급락 [17] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=421&aid=0005591397))
 
 ----------
 
 *[업계 소식]*
 
-1. 일자리 늘리겠다고 약속한 삼성, 20개 계열사 하반기 대졸 공채 시작 [4] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=015&aid=0004601626))
+1. 대기업들 신입사원 채용 나서…삼성·롯데·CJ·포스코 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=003&aid=0010709755))
 
-2. 삼성, 20개사 대졸공채...13일 원서접수 마감 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=015&aid=0004601619))
-
-3. '고용 늘리겠다' 약속한 삼성, 하반기 대규모 공채 스타트 [6] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=011&aid=0003959743))
-
-4. "삼성 올 하반기 6천명 채용"…언제 지원하고 무슨 시험보나 [10] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=009&aid=0004849191))
+2. “생명의 소중함 밝혀요”…‘자살 예방의 날’ 맞아 점등 행사 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=056&aid=0011116896))
 
 ----------
 
 *[헬스케어 소식]*
 
-1. 삼성·네이버·카카오·통신3사 등 IT업계 수장들 한 자리에 모인 이유는? [4] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=105&oid=022&aid=0003617481))
+1. 킨텍스 이화영 대표, 中 최대 무역전시회서 기조연설 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=005&aid=0001469587))
 
-2. "한·대만, CPTPP 동시가입해야"…전경련, 경협위서 건의(종합) [2] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=003&aid=0010707339))
-
-3. “삼성·통신사·네이버·카카오 AI 뭉친다”…초거대 AI 협의체 출범 [11] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=105&oid=016&aid=0001884675))
-
-4. AI 글로벌 주도권 잡자…삼성·네이버·카카오·통신사 협력 [3] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=003&aid=0010707313))
+2. 라이프샐러드-퓨어제이랩, 첨단기술 기반 웰니스 사업 MOU [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=008&aid=0004642704))
 
