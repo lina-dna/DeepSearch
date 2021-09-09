@@ -1,72 +1,76 @@
 ## Daily News Monitoring 
 
-2021-09-09 
+2021-09-10 
 
 ----------
 
 ### Daily Hot Keywords 
 
-![word_cloud](image/2021-09-09_word_cloud.png)
+![word_cloud](image/2021-09-10_word_cloud.png)
 
 ----------
 
 *[ESG 소식]*
 
-1. 도드람, 코로나19로 어려움 겪는 김제시 취약계층 돕기 나서 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=417&aid=0000733285))
+1. "찬바람 분다"…증시 앞 안보일 때 부자들은 어김없이… [3] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=009&aid=0004850497))
 
-2. 정의선은 수소차, 최태원은 수소 생산… “글로벌 3000조 시장 선점” [15] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=103&oid=023&aid=0003639159))
+2. 남동발전, 제1회 탄소중립 미래포럼 개최 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=105&oid=092&aid=0002233303))
 
-----------
+3. 오비맥주, 12년째 몽골서 '카스 희망의 숲' 조성…사막화방지와 미세먼지·온실가스 저감에 기여 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=076&aid=0003777186))
 
-*[금융 소식]*
+4. [에너지공기업 소식] 남부발전, 메타버스 활용 신입사원 교육 外 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=082&aid=0001118704))
 
-1. [설왕설래] 알박기 인사 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=110&oid=022&aid=0003617903))
+5. 전북특구본부, 연구소기업 애로해결 맞춤형 성장지원 프로그램 추진 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=030&aid=0002968623))
 
-2. 포항시, 미래신산업 성장 토대 구축...'빅데이터 추진 협의회 발대식' [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=277&aid=0004966537))
+6. 롯데하이마트, 추석 앞두고 중소 파트너사 상품 대금 97억원 조기 지급 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=076&aid=0003777193))
 
-3. KAIST "15년 뒤 현실과 가상공간 경계 흐릿해질 것···메타버스로 교육·문화·산업 전반 빅뱅" [7] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=105&oid=011&aid=0003960343))
-
-4. 코인거래소 무더기 폐쇄 대비…경찰, 전담수사팀 전국 설치 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=009&aid=0004849906))
+7. "ESG 경영, 일자리 늘리고 삶의 질 높이는 성장전략" [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=009&aid=0004850489))
 
 ----------
 
 *[보험 소식]*
 
-1. 경적 울렸다고 욕하며 끼어든 차…"이래도 보복운전 아니래요" [103] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=008&aid=0004642725))
+1. [열린마당] 실효성 있는 치수정책으로 기후위기 대응을 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=110&oid=022&aid=0003618262))
 
-2. 고민정 “내가 상위 12%?…불만 제기 당연” [4] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=100&oid=005&aid=0001469590))
+2. 심사평가원, 강원대병원과 협약 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=002&aid=0002209564))
 
-3. 9월9일 알림 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=028&aid=0002559816))
+3. “X 같은 개한민국”… 재난지원금 못 받아 화난 중국 동포 커뮤니티엔 욕설 난무 [426] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=022&aid=0003618258))
 
-4. 실업급여 중단 뉴스에 美 상원 의원 “취업하면 되잖아?” [1] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=104&oid=023&aid=0003639158))
-
-5. 충북 코로나19 연쇄감염 계속…“교회발 집단 확산 우려” [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=056&aid=0011117103))
+4. 1020부터 파고든 코로나 우울… ‘고의적 자해’ 4~5배 폭증 [1] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=081&aid=0003215170))
 
 ----------
 
 *[보험 헬스케어 소식]*
 
-1. 카카오·네이버 '충격파' 코스피, 외국인·기관 '팔자'에 휘청 [15] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=008&aid=0004642548))
+1. 보험사 `헬스케어 플랫폼` 사업 가능해져 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=029&aid=0002696192))
 
-2. [마감시황]코스피, 외인·기관 동반 매도에 이틀 연속 하락 [5] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=003&aid=0010709340))
+2. [모빌리티 인사이트] 택시처럼 의료 서비스도 호출한다, 의료 모빌리티 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=105&oid=020&aid=0003381193))
 
-3. [마감] 코스피, 외인·기관 매도세 확대… 3160선 마감 [1] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=417&aid=0000733187))
+3. "베이징거래소 하나 더 만든다"...중국 진짜 속내는? [김보미의 뉴스카페] [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=215&aid=0000983780))
 
-4. [시황종합] 코스피 0.77%↓ 3160선…카카오 10%·네이버 7% 급락 [17] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=421&aid=0005591397))
+4. 신한라이프-창헬스케어, 사업 고도화 MOU…'디지털 헬스케어' 사업 발굴 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=031&aid=0000623379))
+
+5. NDS-지앤넷, '헬스케어플랫폼+실손보험 청구 서비스' 협력 MOU 체결 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=030&aid=0002968570))
+
+6. [상장기업분석]라이프시맨틱스, 기회 맞은 디지털 헬스…매출 본격화 기대 [1] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=030&aid=0002968566))
 
 ----------
 
 *[업계 소식]*
 
-1. 대기업들 신입사원 채용 나서…삼성·롯데·CJ·포스코 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=003&aid=0010709755))
+1. 삼성생명, DSR 40%대 적용… 보험업계도 대출 조이기 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=469&aid=0000628831))
 
-2. “생명의 소중함 밝혀요”…‘자살 예방의 날’ 맞아 점등 행사 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=056&aid=0011116896))
+2. 후순위채 찍고 사옥 매각… 보험사 지급여력비율 확대 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=014&aid=0004706505))
+
+3. 삼성·CJ·롯데 채용 스타트···직원들이 말하는 ‘우리 회사는’ [1] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=011&aid=0003960793))
+
+4. 삼성생명, DSR 60%에서 40%로… 가계대출 한도 자체 조정 [11] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=366&aid=0000760426))
+
+5. 삼성생명, 가계대출 한도 ‘DSR 60%→40%’ 자체 조정 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=016&aid=0001885834))
 
 ----------
 
 *[헬스케어 소식]*
 
-1. 킨텍스 이화영 대표, 中 최대 무역전시회서 기조연설 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=005&aid=0001469587))
-
-2. 라이프샐러드-퓨어제이랩, 첨단기술 기반 웰니스 사업 MOU [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=008&aid=0004642704))
+1. 권오경 "디스플레이·반도체 인재양성 힘쓰겠다" [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=105&oid=029&aid=0002696224))
 
