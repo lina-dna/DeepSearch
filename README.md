@@ -1,50 +1,56 @@
 ## Daily News Monitoring 
 
-2021-09-12 
+2021-09-13 
 
 ----------
 
 ### Daily Hot Keywords 
 
-![word_cloud](image/2021-09-12_word_cloud.png)
+![word_cloud](image/2021-09-13_word_cloud.png)
 
 ----------
 
 *[ESG 소식]*
 
-1. 김영록 지사, 롯데케미칼에 신산업 투자 요청 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=002&aid=0002209783))
+1. LG생건, 커피찌꺼기로 화장품 원료 만든다 [3] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=103&oid=014&aid=0004707482))
 
-2. "코로나보다 심각할 수도" 위기감에 북악산 몰려든 CEO·국회의원 [51] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=009&aid=0004851204))
+2. [포커스] 남양주 자원순환도시 질주…ESG 신호탄 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=014&aid=0004707507))
 
 ----------
 
 *[금융 소식]*
 
-1. 카카오페이, 보험료 비교 서비스 중단..."상생 노력 지속" [10] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=052&aid=0001639214))
+1. [자금조달]HMG, 옛 여의도 순복음교회 부지 인수용 3000억 확보 [1] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=277&aid=0004968191))
+
+2. "감히 날 차단해?"…규제법 폭주하는 美 텍사스주 [2] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=104&oid=008&aid=0004644073))
+
+3. ‘애플카 협력설’에… 배터리 화재로 체면 구긴 LG 다시 웃나 [13] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=081&aid=0003215648))
+
+4. [팩트와이] 주식 보유액도 국민지원금 기준이다? [6] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=052&aid=0001639479))
+
+5. ‘플랫폼 규제’ 우려에… 카카오 공매도 쏟아져 [5] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=022&aid=0003618942))
 
 ----------
 
 *[보험 소식]*
 
-1. '갑툭튀' 스쿨존 어린이에 '가슴 철렁'…'패가망신' 걱정에 운전 두렵다면[세상만車] [55] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=103&oid=009&aid=0004851248))
+1. 美 CDC "코로나 백신 안 맞으면 사망률 11배 높아" [52] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=104&oid=014&aid=0004707509))
 
-2. 100만원 12번? 1200만원 한번에?...적금 이자 최대로 챙기는 비법 [20] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=009&aid=0004851246))
+2. 서울 아파트 10채 중 4채 '반전세'...'전세의 월세화' 가속 [44] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=052&aid=0001639471))
 
-3. 박승원 광명시장 “시민 모두 재난지원금 지급” [2] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=014&aid=0004707169))
+3. 9월13일 알림 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=028&aid=0002560229))
 
-4. 권민아·현아·강다니엘…줄줄이 고백한 '이 병' 위험한 이유 [건강!톡] [367] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=103&oid=015&aid=0004603704))
+4. 美 백신 의무화에 전문가·기업들 '환영'… 반발하는 공화당, 정치적 고립 자초하나 [4] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=104&oid=469&aid=0000629282))
+
+----------
+
+*[업계 소식]*
+
+1. 보험사 대출도 어려워진다… 금리 올리고 대출중단까지 [107] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=366&aid=0000760674))
 
 ----------
 
 *[헬스케어 소식]*
 
-1. 美 제약사 노바백스 "내년 최소 20억회분 백신 사용 가능" [2] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=104&oid=018&aid=0005034891))
-
-2. 9월 유망 중소형주…파마리서치·뷰노·비에이치·루트로닉 등 [4] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=277&aid=0004967824))
-
-3. [주목!e해외주식]엔비디아, 게이밍 수요증가에 자율주행 모멘텀까지 [1] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=018&aid=0005034886))
-
-4. '새단장' K-뉴딜지수…종목 득실 계산해보니 [2] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=648&aid=0000003660))
-
-5. 출산보다 많아진 죽음… ‘웰다잉’은 어떻게 준비할까[박성민의 더블케어] [54] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=020&aid=0003381563))
+1. 가구 넘어 공간디자인···롯데, 전방위 투자 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=011&aid=0003961597))
 
