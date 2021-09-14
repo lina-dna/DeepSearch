@@ -1,78 +1,72 @@
 ## Daily News Monitoring 
 
-2021-09-14 
+2021-09-15 
 
 ----------
 
 ### Daily Hot Keywords 
 
-![word_cloud](image/2021-09-14_word_cloud.png)
+![word_cloud](image/2021-09-15_word_cloud.png)
 
 ----------
 
 *[ESG 소식]*
 
-1. 케이썬, 탄소중립 포럼...'탄소중립의 성공은 거버넌스에 달려있다 ' [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=014&aid=0004708298))
+1. 9월15일 알림 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=028&aid=0002560548))
 
-2. MBN[토요포커스] 강명수 한국표준협회 회장 "품질 표준으로 산업경쟁력을 키우다" [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=057&aid=0001607371))
+2. [공기업뉴스] 조폐공사 화폐박물관, 창립 70돌 맞아 ‘기념 특별전’ 外 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=082&aid=0001119681))
 
-3. [공기업 뉴스] 조폐공사, 추석 맞아 소외 이웃 위한 나눔활동 外 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=082&aid=0001119366))
-
-4. 변화 거듭하는 SK, 이번에는 종로타워 인수 검토 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=018&aid=0005036657))
-
-5. [주간 클라우드 동향/9월②] 300! 3000! 10000! [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=004&oid=138&aid=0002110234))
-
-6. [발전공기업 뉴스] 한전, 재생에너지 접속지연 특별대책…내년까지 624MW 연결 外 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=082&aid=0001119364))
-
-7. ‘규제의 대상’으로 전락 공룡 플랫폼의 ‘걱정’…카카오 ‘배탈’ 네이버 ‘뒤탈’ [4] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=032&aid=0003098057))
+3. “세계적 기업 향한 새로운 60년 시작” [삼양식품 창립 60주년 기념식] [1] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=032&aid=0003098318))
 
 ----------
 
 *[금융 소식]*
 
-1. 카카오페이 운전자 보험 등 판매 잠정 중단...상장 재연기 가능성 [1] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=052&aid=0001640011))
+1. [사설] 카카오 “골목상권 사업 철수”, 이젠 혁신에 집중하길 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=110&oid=022&aid=0003619698))
+
+2. 미국 물가 5.3% 고공행진…인플레 정점 vs 인플레 확산(종합) [11] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=018&aid=0005037566))
+
+3. '라임사태' 이종필, 손태승 회장 등 우리은행 임직원 고소 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=421&aid=0005604320))
 
 ----------
 
 *[보험 소식]*
 
-1. 中 정부, 알리페이 분할…대출업 떼낸 뒤 국유화 [9] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=105&oid=092&aid=0002233582))
+1. 언론재단, 언론인금고 융자 제한규정 거듭 안내… 무슨 일이 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=127&aid=0000031563))
 
-2. 백내장 수술, 2㎜ 정도만 절개해 수정체 제거 및 인공 수정체 삽입 [1] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=103&oid=469&aid=0000629522))
+2. [과기정통 뉴스] 동남권의학원, 암환자 간호 보수교육 자체 개발 外 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=082&aid=0001119682))
 
-3. 장기요양보험료율 6.51% 인상…경영계 "국고지원 확대·지출효율화 나서야" [1] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=003&aid=0010718651))
+3. '반값 수강료 도로 연수' 주의…무자격 강사가 태반 [4] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=422&aid=0000504535))
 
-4. [사설] 잇따른 자영업자 극단선택, 방역전략 전환 서두를 때다 [4] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=110&oid=022&aid=0003619294))
+4. 아토피 피부염 환자 54% "치료에 경제적 부담" [1] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=103&oid=469&aid=0000629755))
 
-5. 장기요양보험료율 또 인상…경영계 "국고지원 확대·지출효율화 나서야"(종합) [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=003&aid=0010718658))
+5. 코로나19 오해 환절기 알레르기 비염 이별하는 법 [1] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=005&aid=0001470907))
 
 ----------
 
 *[보험 헬스케어 소식]*
 
-1. 카톡으로 '아이 건강 문진' 개발…AI와 바이오 기업 만났다 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=008&aid=0004644228))
+1. 제주 서귀포에 '대규모 종합건강검진센터' 문 연다 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=421&aid=0005602977))
 
-2. 푸르덴셜생명 인수 1년…KB생명과 시스템 통합 추진 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=277&aid=0004968456))
+2. JDC, 제주헬스케어타운 종합건강검진센터 유치 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=079&aid=0003553028))
+
+3. 찬바람 불면 배당주…불안해진 주식시장, 배당주 투자로 안전판 마련 [1] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=024&aid=0000070560))
 
 ----------
 
 *[업계 소식]*
 
-1. "이재용, 유산 상속하며 28조원 탈세" 고발···경찰 수사 착수 [28] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=011&aid=0003961946))
+1. 보험사도 '대출 옥죄기' 본격화…DSR 강화 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=031&aid=0000624207))
 
-2. 금소법 계도기간 24일 종료…금융권 준비 어디까지 됐나(종합) [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=277&aid=0004968701))
+2. 청년고용 약속 지킨 이재용...김부겸 "삼성 결단, 이건희 회장 인재경영 유산" [24] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=011&aid=0003962641))
 
-3. 법무법인 지평 보험팀, 최병문·임호산·김병희·이한길 변호사 영입 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=123&aid=0002254694))
+3. '금리인상·배당 수혜' 동양생명 4% 가까이 상승 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=015&aid=0004604789))
+
+4. JTBC, 중앙프라퍼티 지분 전량 매각 JTBC4에 출자  [7] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=006&aid=0000109691))
 
 ----------
 
 *[헬스케어 소식]*
 
-1. 부산고려병원, 거동 불편 환자 맞춤형 동행 서비스 도입 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=103&oid=082&aid=0001119334))
-
-2. "AI 한의사 만들어, 시공간 제약없는 헬스케어 시대 열겠다" [인터뷰] [5] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=105&oid=014&aid=0004708230))
-
-3. 의료 인공지능에 빠진 정몽준 장녀…‘루닛’ 사외이사로 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=105&oid=243&aid=0000016214))
-
-4. [ET] 손목시계로 인바디·협압 측정…내 손안의 주치의 시대 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=056&aid=0011119591))
+1. 파산 위기 놓인 中 부동산 재벌 '헝다'… "경제 부담 요인" [33] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=104&oid=469&aid=0000629746))
 
