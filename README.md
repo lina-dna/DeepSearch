@@ -1,72 +1,68 @@
 ## Daily News Monitoring 
 
-2021-11-26 
+2021-11-27 
 
 ----------
 
 ### Daily Hot Keywords 
 
-![word_cloud](image/2021-11-26_word_cloud.png)
+![word_cloud](image/2021-11-27_word_cloud.png)
 
 ----------
 
 *[ESG 소식]*
 
-1. [미리보는 이데일리 신문]기준금리 1% 복귀…이자부담 12.5조 증가 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=018&aid=0005094381))
+1. SG, 조달청 통해 544억 규모 아스콘 공급 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=011&aid=0003990154))
 
-2. [인사] LG그룹 外 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=005&aid=0001487002))
+2. [창원소식] 창원한마음병원 ‘취약계층 월동난방비 1억원’ 지원 등 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=003&aid=0010856844))
+
+3. 예대마진 폭리 비난에…은행들, 예적금 금리 최고 4%대 올린다 [60] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=032&aid=0003112761))
 
 ----------
 
 *[금융 소식]*
 
-1. [사설] 막 내린 초저금리 시대… 금리상승 국면 대비할 때다 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=110&oid=022&aid=0003641777))
+1. 수출입은행, 석유공사에 10억 달러 금융지원 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=056&aid=0011165074))
 
-----------
+2. 치솟는 대출 금리… 변동? 고정? 뭐가 유리할까 [21] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=022&aid=0003642158))
 
-*[당사 소식]*
-
-1. 생보업계 "헬스케어 자회사 규제 완화를"…정은보 "적극 검토" [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=008&aid=0004675279))
+3. "뒷문 또 열릴라"…연봉 1000만원 인상 등 파격 보상안 꺼낸 카뱅 [6] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=009&aid=0004885194))
 
 ----------
 
 *[보험 소식]*
 
-1. 강원도의회 “학생건강검진, 국민건강검진으로 통합 촉구” [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=056&aid=0011164178))
+1. "80세 노부모, 지역전환돼 건보료 260만원 내라네요"…이달부터 인상 폭탄 피하려면 [170] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=009&aid=0004885136))
 
-2. 대구경북 화물차 수천 대 멈춰…파업 여파 ‘촉각’ [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=056&aid=0011164163))
+2. 10년간 2천일 입원‥보험사기로 5억 가로챈 50대 구속 [1] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=214&aid=0001162444))
 
-3. 의료적 중대성 높은 ‘혁신의료기술’ 선별급여 적용…나머지는 한시적 비급여 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=105&oid=092&aid=0002240355))
+3. 비조합원 화물차 운행 방해 3명 체포 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=056&aid=0011164961))
+
+4. 법원, 내일 화물연대 상경 집회 금지 처분 유지 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=052&aid=0001670081))
+
+5. 하나생명, 1000억원 증자…재무건전성 강화 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=009&aid=0004885126))
+
+6. 법원, 화물연대 토요일 여의도 집회 금지 유지 [1] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=011&aid=0003990155))
 
 ----------
 
 *[보험 헬스케어 소식]*
 
-1. "빅테크 보험업 진출에도 동일 규제" [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=015&aid=0004632975))
+1. "공공데이터포털 통한 헬스케어 빅데이터 개방 확대 추진" [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=030&aid=0002984397))
 
-2. [fn이사람] "DNA감식법으로 반려견 비만·당뇨도 예측" [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=014&aid=0004745794))
+2. 이용섭 광주시장, 시정연설에서 "더 크고 더 강한 광주 만들겠다" [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=079&aid=0003579671))
 
-3. 악사손보, 새 비전 선포…“인생 파트너로 자리매김 할 것" [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=029&aid=0002708060))
-
-4. 악사손보, '앰비션 2025' 새 비전 선포 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=014&aid=0004745709))
-
-5. 정은보 "필요시 2금융권 금리도 모니터링"(종합) [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=003&aid=0010854694))
-
-6. "보험사 신사업 폭넓게 허용" 금감원장도 한목소리 (종합) [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=011&aid=0003989633))
-
-7. 빅테크 뛰어든 보험업계 ‘기울어진 운동장’ 바로잡는다 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=018&aid=0005094247))
-
-8. 김재진 이오플로우 대표 “웨어러블 인슐린 세계시장 본격 공략" [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=018&aid=0005094211))
+3. [코스닥 마감]개인 '팔자'에 약세…'1000선 턱걸이' [15] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=018&aid=0005094854))
 
 ----------
 
 *[헬스케어 소식]*
 
-1. 순혈주의 깬 롯데, 유통 수장에 홈플러스 출신 김상현 [2] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=029&aid=0002708128))
+1. '혁신사업' 재편 예고한 카카오, 남궁훈이 이니셔티브센터장 맡는다 [1] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=105&oid=421&aid=0005749600))
 
-2. 정은보 “보험사 자회사 소유·부수업무 폭넓게 허용” [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=022&aid=0003641753))
+2. [단독]휴먼스케이프 "12월 HUM 유통량 증가 맞지만…조절 논의 중" [21] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=105&oid=015&aid=0004633524))
 
-3. IBK창업 '씨엔티에크' 육성기업, '블루레오' 스케일업 최우수기업 선정 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=417&aid=0000758401))
+3. 장 마감 후 기업공시[11월 26일] [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=011&aid=0003990146))
 
-4. 바이오니아, 글로벌센터 개소…'신약 개발 헬스케어 기업 2030' 비전 선포 [4] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=009&aid=0004884599))
+4. 셀트리온, 셀트리온헬스케어와 '코로나 항체약' 485억 규모 공급 계약 [1] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=421&aid=0005749545))
 
