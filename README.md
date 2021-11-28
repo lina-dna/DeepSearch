@@ -1,70 +1,64 @@
 ## Daily News Monitoring 
 
-2021-11-28 
+2021-11-29 
 
 ----------
 
 ### Daily Hot Keywords 
 
-![word_cloud](image/2021-11-28_word_cloud.png)
+![word_cloud](image/2021-11-29_word_cloud.png)
 
 ----------
 
 *[ESG 소식]*
 
-1. 미중일 앞다퉈 "축하해요"…'인싸' 인증한 환갑 전경련 [인사이드 아웃] [5] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=009&aid=0004885324))
+1. 구자은 시대 맞은 LS그룹, 2·3세 경영 확대 교두보 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=029&aid=0002708348))
 
-2. 교통안전공단, 김천 초등학교에 탄소중립 교실숲 조성 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=003&aid=0010857303))
+2. [지산학 협력 브랜치 기업] 코렌스…환경 부분서 기술 개발 통해 기업 사회적 가치 창조 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=082&aid=0001129441))
 
-3. [포커스] 민선7기 안양시 혁신시정 톱10, 뭐지? [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=014&aid=0004746360))
+3. 네네치킨·봉구스밥버거, 노원구에 ‘네네봉구스작은도서관’ 개관 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=029&aid=0002708379))
 
-4. 삼성·현대차·SK·LG…대기업들 일자리 쏟아낸다 [8] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=003&aid=0010857183))
+4. 중진공, '지역사회공헌 인정기관' 3년 연속 지정 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=079&aid=0003580003))
 
 ----------
 
 *[금융 소식]*
 
-1. [기고] 메타버스와 아바타 보안 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=105&oid=092&aid=0002240481))
+1. 쿠팡, 로켓 성장에도 자금 수혈… 적자폭 커져 시장 기대치 ‘추락’ [10] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=081&aid=0003233473))
 
-2. "내 연금 어떻게 지킬까"…연말 오기 전 챙겨야 할 연금 투자 [8] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=243&aid=0000019158))
+2. 지역신보, 중·저신용 소상공인 특례보증 지원 대상 확대 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=030&aid=0002984559))
 
-3. 10월 기업 직접금융 실적…주식 늘고 회사채 줄고 [체크리포트] [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=243&aid=0000019157))
+3. 새마을금고, 가계대출 29일부터 중단…풍선효과 차단 [5] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=119&aid=0002552268))
 
-4. 기준금리 인상 후 여전채 발행시장 '주춤' [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=016&aid=0001917790))
+4. 우리금융, MZ세대 특화 플랫폼 구축 [포토뉴스] [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=032&aid=0003113005))
 
-5. "이 정도에 쫄면, 투자 못하죠"…비트코인 악재에도 돈몰렸다 [코인노트] [34] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=103&oid=009&aid=0004885365))
-
-6. “일해야 산다”…한국 65세 이상 인구 고용률 OECD 1위 [65] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=081&aid=0003233319))
-
-7. '50억 클럽' 수사 속도‥곽상도·권순일 잇달아 출석 [18] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=214&aid=0001162533))
-
-8. 中 부동산, 13년來 가장 큰 위축…소비·국가사업 차질 우려 [2] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=031&aid=0000638999))
+5. 더듬이 바짝 세운 서학개미…성장주 다음은 NFT·메타버스 [5] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=018&aid=0005095622))
 
 ----------
 
 *[보험 소식]*
 
-1. 경찰, '2만명' 참가한 민주노총 총궐기 수사 착수(종합) [93] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=003&aid=0010857369))
+1. 금리도 물가도 고공행진...서민들 '이중고' [6] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=052&aid=0001670603))
 
-2. “근육 찢기는 소리가 맴돌아요”…인천 ‘흉기난동’ 사건 피해가족 상태 [135] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=023&aid=0003655945))
-
-3. [영상] "운동장에 떨어트린 노트북 밟은 차…100% 잘못 아닌가요?" [143] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=057&aid=0001624411))
-
-4. 화물연대 9천 명 여의도 불법 집회…밥 먹고 담배 피우고 [457] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=449&aid=0000218509))
-
-5. 사망·출생 가짜 증명서도 실시간 발급…中 활개치는 위조문서들 [3] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=104&oid=081&aid=0003233314))
+2. 수퍼카 17대 보유, 집 없이 모텔 생활…'카푸어 끝판왕' 유튜버 [349] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=025&aid=0003154395))
 
 ----------
 
 *[헬스케어 소식]*
 
-1. 대웅제약이 문맹률 높은 국가에 ‘코로나19 위험성’ 알린 방법 [8] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=105&oid=293&aid=0000037095))
+1. [CEO] 인공지능 물류로봇 '고카트' 국제인증 받아 수출 날개달것 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=105&oid=009&aid=0004885490))
 
-2. 과실연 호남권 제2차 포럼 개최…“지역소멸 대응은 리빙랩에 달려 있다” [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=030&aid=0002984438))
+2. 아·태 소비자 50% "디지털 서비스로 건강관리" [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=014&aid=0004746641))
 
-3. GS샵, 컨슈니어를 위해 꼼꼼하게 엄선한 건강기능식품 제안 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=417&aid=0000758871))
+3. 'K-코로나치료제' 셀트리온, 분식회계로 주가 반토막 [189] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=002&aid=0002220873))
 
-4. 광주광역시, '더 크고 더 강한 도시'로 도약한다 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=014&aid=0004746356))
+4. "의료데이터 표준화 및 활용 방안 모색"…대구시, 30일 세미나 개최 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=030&aid=0002984549))
 
-5. "알고보니 약봉투가 금봉투"...'필독'하는 제약사·큰손들[이노머니] [7] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=008&aid=0004675981))
+5. 걷기만 하던 보험사 '헬스케어 앱'…특이점이 오기 시작했다 [1] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=105&oid=293&aid=0000037103))
+
+6. 셀트리온 ‘이례적인’ 공시…렉키로나 글로벌 판매 본격화하나 [57] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=243&aid=0000019178))
+
+7. 아픈 친구 돕다가…2조4000억 회사 키운 20대 한인 女 [17] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=104&oid=015&aid=0004633826))
+
+8. 시민이 선정한 ‘서울시 10대 정책’ 1위는 전기차 보급 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=028&aid=0002569527))
 
