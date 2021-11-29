@@ -1,64 +1,52 @@
 ## Daily News Monitoring 
 
-2021-11-29 
+2021-11-30 
 
 ----------
 
 ### Daily Hot Keywords 
 
-![word_cloud](image/2021-11-29_word_cloud.png)
+![word_cloud](image/2021-11-30_word_cloud.png)
 
 ----------
 
 *[ESG 소식]*
 
-1. 구자은 시대 맞은 LS그룹, 2·3세 경영 확대 교두보 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=029&aid=0002708348))
-
-2. [지산학 협력 브랜치 기업] 코렌스…환경 부분서 기술 개발 통해 기업 사회적 가치 창조 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=082&aid=0001129441))
-
-3. 네네치킨·봉구스밥버거, 노원구에 ‘네네봉구스작은도서관’ 개관 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=029&aid=0002708379))
-
-4. 중진공, '지역사회공헌 인정기관' 3년 연속 지정 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=079&aid=0003580003))
+1. 손경식 "MZ노조, 분배보다 공정·투쟁보다 소통…대립적 勞使 극복해야"(종합) [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=003&aid=0010860759))
 
 ----------
 
 *[금융 소식]*
 
-1. 쿠팡, 로켓 성장에도 자금 수혈… 적자폭 커져 시장 기대치 ‘추락’ [10] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=081&aid=0003233473))
+1. '50억 클럽' 곽상도 "무고함 법정서 밝히도록 하겠다" [4] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=100&oid=003&aid=0010860781))
 
-2. 지역신보, 중·저신용 소상공인 특례보증 지원 대상 확대 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=030&aid=0002984559))
+2. '오미크론' 악재 영향 덜했지만..."변동성은 불가피" [3] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=052&aid=0001671088))
 
-3. 새마을금고, 가계대출 29일부터 중단…풍선효과 차단 [5] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=119&aid=0002552268))
+3. 시진핑 “아프리카 국가에 백신 10억 회 분 추가 제공” [1] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=104&oid=056&aid=0011166209))
 
-4. 우리금융, MZ세대 특화 플랫폼 구축 [포토뉴스] [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=032&aid=0003113005))
-
-5. 더듬이 바짝 세운 서학개미…성장주 다음은 NFT·메타버스 [5] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=018&aid=0005095622))
+4. 살얼음판 금융시장… 폭락 없이 사태 주시 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=023&aid=0003656264))
 
 ----------
 
 *[보험 소식]*
 
-1. 금리도 물가도 고공행진...서민들 '이중고' [6] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=052&aid=0001670603))
+1. 건보공단 부울경본부, 빅데이터 활성 토론회 개최 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=123&aid=0002260809))
 
-2. 수퍼카 17대 보유, 집 없이 모텔 생활…'카푸어 끝판왕' 유튜버 [349] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=025&aid=0003154395))
+2. 오세훈 인사 왜 이래?...문혜정 50플러스재단 대표 두 달만에 사퇴 [11] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=277&aid=0005007398))
+
+3. "3050 허리가 위태롭다"…허리 디스크 환자 53%가 30~50대 [7] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=103&oid=469&aid=0000643982))
+
+4. 제조업체·보험사 사무실 감염 잇따라…광주·전남 66명 확진 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=056&aid=0011166191))
 
 ----------
 
 *[헬스케어 소식]*
 
-1. [CEO] 인공지능 물류로봇 '고카트' 국제인증 받아 수출 날개달것 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=105&oid=009&aid=0004885490))
+1. [주요 단신] “보조금심의위 회의록 공개해야…재정분석 최하위” 외 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=056&aid=0011166040))
 
-2. 아·태 소비자 50% "디지털 서비스로 건강관리" [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=014&aid=0004746641))
+2. 마이데이터가 알려준다 “커피값 40만원 아껴 적금 드세요” [2] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=023&aid=0003656237))
 
-3. 'K-코로나치료제' 셀트리온, 분식회계로 주가 반토막 [189] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=002&aid=0002220873))
+3. [주간투자동향] SK스퀘어, 코빗에 900억 원 투자 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=105&oid=020&aid=0003396612))
 
-4. "의료데이터 표준화 및 활용 방안 모색"…대구시, 30일 세미나 개최 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=030&aid=0002984549))
-
-5. 걷기만 하던 보험사 '헬스케어 앱'…특이점이 오기 시작했다 [1] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=105&oid=293&aid=0000037103))
-
-6. 셀트리온 ‘이례적인’ 공시…렉키로나 글로벌 판매 본격화하나 [57] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=243&aid=0000019178))
-
-7. 아픈 친구 돕다가…2조4000억 회사 키운 20대 한인 女 [17] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=104&oid=015&aid=0004633826))
-
-8. 시민이 선정한 ‘서울시 10대 정책’ 1위는 전기차 보급 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=028&aid=0002569527))
+4. 韓 의료기기, 국제 품질관리 기준 따르게 도왔더니…글로벌 투자자까지 ‘관심’ [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=105&oid=366&aid=0000777023))
 
