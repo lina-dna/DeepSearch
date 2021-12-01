@@ -1,80 +1,80 @@
 ## Daily News Monitoring 
 
-2021-12-01 
+2021-12-02 
 
 ----------
 
 ### Daily Hot Keywords 
 
-![word_cloud](image/2021-12-01_word_cloud.png)
+![word_cloud](image/2021-12-02_word_cloud.png)
 
 ----------
 
 *[ESG 소식]*
 
-1. 70년대생의 슬픈 찬가…온갖 고생 다 했는데 벌써 떠밀리나 [61] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=024&aid=0000071820))
+1. 롯데슈퍼, ESG 실천…전기 만들어 쓴다 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=032&aid=0003113784))
 
-2. 폐플라스틱, 이게 다 미래 먹거리 [23] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=032&aid=0003113495))
-
-3. 철강사 포스코가 조개껍데기 모으는 까닭 제철 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=032&aid=0003113494))
-
-4. 기업에 환경·사회 책임 강화…제도·인력은 미흡 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=056&aid=0011167019))
-
-5. 임기 만료 앞둔 금융권 CEO…김정태 “연임 NO” 허인·김기홍 ‘파란불’ [4] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=024&aid=0000071817))
+2. ‘기업시민, 문화가 되다’ 기업시민 포스코 컬처데이 열려 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=002&aid=0002221451))
 
 ----------
 
 *[금융 소식]*
 
-1. [사설] 오미크론 우려·생산 감소… 선제 대응으로 경기 불씨 살리길 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=110&oid=022&aid=0003643313))
+1. ‘아들 50억 의혹’ 곽상도 전 의원 구속영장 기각 [500] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=056&aid=0011167865))
 
-2. [데스크의눈] 신남방정책, 민간 경험 수용하자 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=110&oid=022&aid=0003643310))
+2. 법원, 곽상도 구속영장 기각…수사 차질 불가피 [177] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=020&aid=0003397165))
+
+3. '아들 50억' 곽상도, 구속 기각…법원 "소명 부족" [28] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=003&aid=0010865908))
+
+4. ‘아들 50억 퇴직금’ 곽상도 구속영장 기각…50억 클럽 수사 빨간불 [413] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=032&aid=0003113804))
+
+5. '아들 50억 퇴직금' 곽상도, 구속 피했다… 法 "방어권 보장 필요" [120] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=277&aid=0005008882))
+
+6. 지금과 유사?…연중 최고점 찍고 급락한 2018년 톺아볼 때 [19] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=018&aid=0005098237))
+
+7. '50억 클럽' 곽상도 구속영장 기각…"다툼 여지 있어"(종합) [84] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=014&aid=0004748852))
+
+8. [속보]'아들 50억 퇴직금' 곽상도 전 의원 구속영장 기각 [197] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=011&aid=0003991943))
 
 ----------
 
 *[보험 소식]*
 
-1. 성소수자 “동성부부, 주거 희망도 없어” [63] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=081&aid=0003234111))
-
-2. 이시종 충북도지사 “완전한 일상 회복 통해 일등경제 완성” [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=002&aid=0002221263))
-
-3. 폭우도 아닌데...개통 석 달 된 서울 서부간선도로 지하도 '침수' [84] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=052&aid=0001671573))
+1. 오늘의 인사 - 2021년 12월 2일 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=032&aid=0003113790))
 
 ----------
 
 *[보험 헬스케어 소식]*
 
-1. [소프트웨이브 2021]다채로운 부대행사 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=105&oid=030&aid=0002985008))
+1. ABL생명, 건강증진형 보험 출시 1주년 맞이 이벤트 진행 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=016&aid=0001919422))
 
-2. 바비톡, 이베이 출신 CMO 영입…사업 다각화 속도 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=030&aid=0002985021))
+2. 생명보험업계 첫 헬스케어 전문자회사 '신한큐브온' 뜬다(종합) [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=277&aid=0005008627))
 
-----------
+3. “건강등급 측정하고 갤럭시 워치4 받으세요” [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=243&aid=0000019339))
 
-*[업계 소식]*
+4. '생보사 빅4'로 새출발…신한라이프 디지털·헬스케어로 도약 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=015&aid=0004635169))
 
-1. [알립니다] 기업인을 위한 서경 송년음악회 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=103&oid=011&aid=0003991397))
+5. 성대규 사장 "보험업 탈피…헬스케어 신사업 발굴해 종합돌봄 서비스 제공" [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=015&aid=0004635164))
 
-2. [시그널] LG엔솔 '내년 1월 코스피 1호 상장' 청신호 [3] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=011&aid=0003991362))
+6. 심평원, 공공의료데이터 추가제공···정보 갈증 던 보험사 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=008&aid=0004677845))
 
-3. 긴축속도 늦어지나···은행주 11개월만에 최대 급락 [6] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=011&aid=0003991391))
+7. 보험·자산운용 시너지 '실적 초과달성'…베트남 진출도 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=015&aid=0004635166))
 
-4. 아마존 '창업 1년된 한국기업' 찜했다…전직원 미국 초청한 사연 [6] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=105&oid=009&aid=0004886696))
-
-5. IPO 초대어 LG에너지솔루션, 상장예비심사 통과 1월 상장 박차 [1] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=018&aid=0005097253))
+8. 신사업 규제 사라졌지만…업황 둔화로 옥석 가리기 될 듯 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=015&aid=0004635165))
 
 ----------
 
 *[헬스케어 소식]*
 
-1. 증시 때린 `오미크론 공포`… 코스피 70P 폭락 [59] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=029&aid=0002708821))
+1. ‘분사’ 앞둔 GE헬스케어, AI 기반 영상솔루션 대거 공개 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=105&oid=293&aid=0000037149))
 
-2. 초월홍삼, 2021년 대한민국 소비자만족지수 1위 수상 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=008&aid=0004677315))
+2. 시의회, 이번엔 오세훈표 안심소득 등 예산 전액 ‘삭감’ [1] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=005&aid=0001488314))
 
-3. "북미-유럽 남성들, 춘천 화장품에 취하다" [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=079&aid=0003581018))
+3. 전남대 한의정 박사, 여성과총 미래인재상 수상 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=002&aid=0002221444))
 
-4. 셀트리온 ‘렉키로나’ 유럽 판매 개시… “코로나19 재확산에 글로벌 공급 가속화” [7] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=103&oid=020&aid=0003396877))
+4. 퀄컴 ‘올웨이즈 온 AI’…내년 스마트폰 성능 제한 푼다 [2021 퀄컴서밋] [1] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=105&oid=031&aid=0000639869))
 
-5. 동아쏘시오그룹, 창립 89주년 기념식 개최… 어려운 국면 속 선한 영향력 강조 [1] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=103&oid=020&aid=0003396879))
+5. 캠코, 사업재편기업 자산매입 시범사업 실시 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=079&aid=0003581516))
 
-6. [SW세상에서 꿈을 키우다 <5> 오픈소스 개발에 빠지다]"SW 공학 중요성 제대로 배웠어요" [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=105&oid=029&aid=0002708826))
+6. 퀄컴 "스냅드래곤 8, CPU·GPU·AI 성능 모두 향상" [8] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=105&oid=092&aid=0002240907))
 
