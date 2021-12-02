@@ -1,80 +1,78 @@
 ## Daily News Monitoring 
 
-2021-12-02 
+2021-12-03 
 
 ----------
 
 ### Daily Hot Keywords 
 
-![word_cloud](image/2021-12-02_word_cloud.png)
+![word_cloud](image/2021-12-03_word_cloud.png)
 
 ----------
 
 *[ESG 소식]*
 
-1. 롯데슈퍼, ESG 실천…전기 만들어 쓴다 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=032&aid=0003113784))
-
-2. ‘기업시민, 문화가 되다’ 기업시민 포스코 컬처데이 열려 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=002&aid=0002221451))
+1. 오늘의 인사 - 2021년 12월 3일 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=032&aid=0003114047))
 
 ----------
 
 *[금융 소식]*
 
-1. ‘아들 50억 의혹’ 곽상도 전 의원 구속영장 기각 [500] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=056&aid=0011167865))
+1. 상속세, 최대 10년까지 나눠 낸다…미술품 물납 허용 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=018&aid=0005099224))
 
-2. 법원, 곽상도 구속영장 기각…수사 차질 불가피 [177] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=020&aid=0003397165))
-
-3. '아들 50억' 곽상도, 구속 기각…법원 "소명 부족" [28] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=003&aid=0010865908))
-
-4. ‘아들 50억 퇴직금’ 곽상도 구속영장 기각…50억 클럽 수사 빨간불 [413] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=032&aid=0003113804))
-
-5. '아들 50억 퇴직금' 곽상도, 구속 피했다… 法 "방어권 보장 필요" [120] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=277&aid=0005008882))
-
-6. 지금과 유사?…연중 최고점 찍고 급락한 2018년 톺아볼 때 [19] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=018&aid=0005098237))
-
-7. '50억 클럽' 곽상도 구속영장 기각…"다툼 여지 있어"(종합) [84] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=014&aid=0004748852))
-
-8. [속보]'아들 50억 퇴직금' 곽상도 전 의원 구속영장 기각 [197] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=011&aid=0003991943))
+2. 이재근 국민은행장 내정자, "내년 가계대출 성장 5% 이하...새 활로 모색" [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=004&oid=123&aid=0002261182))
 
 ----------
 
 *[보험 소식]*
 
-1. 오늘의 인사 - 2021년 12월 2일 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=032&aid=0003113790))
+1. 특별기여자 “영주 자격 부푼 꿈” 특별체류자 “취업도 못 해 불안” [18] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=081&aid=0003234757))
+
+2. 홍남기 “아들 입원 특혜 아냐…서울대병원에 청탁 안해" [211] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=018&aid=0005099222))
+
+3. 홍남기 아들 특혜 입원?…기재부 "남아 있던 특실 사용한 것" [75] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=003&aid=0010868367))
+
+4. 홍남기 부총리 아들 특혜 입원?...기재부 "남은 특실 사용한 것" [6] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=008&aid=0004678589))
 
 ----------
 
 *[보험 헬스케어 소식]*
 
-1. ABL생명, 건강증진형 보험 출시 1주년 맞이 이벤트 진행 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=016&aid=0001919422))
+1. [시황] 코스피, 외국인 매수에 강세 마감…1.57%↑ [1] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=629&aid=0000119469))
 
-2. 생명보험업계 첫 헬스케어 전문자회사 '신한큐브온' 뜬다(종합) [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=277&aid=0005008627))
+2. [시황종합]코스피 1.57%↑ 2940선 회복…대장주 三電 7.5만원 넘어 [9] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=421&aid=0005761284))
 
-3. “건강등급 측정하고 갤럭시 워치4 받으세요” [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=243&aid=0000019339))
+3. 운동코칭 받고 당뇨관리까지… AI서비스도 '구독시대' [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=014&aid=0004749535))
 
-4. '생보사 빅4'로 새출발…신한라이프 디지털·헬스케어로 도약 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=015&aid=0004635169))
+4. 서학개미, 美 배당주 `눈독`...배당킹 기업은 이것 [3] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=215&aid=0001001035))
 
-5. 성대규 사장 "보험업 탈피…헬스케어 신사업 발굴해 종합돌봄 서비스 제공" [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=015&aid=0004635164))
+5. 신한-KB, 헬스케어 분야에서도 선두 경쟁 [1] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=015&aid=0004635905))
 
-6. 심평원, 공공의료데이터 추가제공···정보 갈증 던 보험사 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=008&aid=0004677845))
+6. 은행도 네이버·카카오처럼…"부동산·쇼핑 자회사 인수 허용해야" [2] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=008&aid=0004678516))
 
-7. 보험·자산운용 시너지 '실적 초과달성'…베트남 진출도 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=015&aid=0004635166))
+7. 큐렉소, 의료로봇 매출 7배 늘어도 주가는 반토막..."제조업 아닌 헬스케어로 봐야" [3] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=018&aid=0005099039))
 
-8. 신사업 규제 사라졌지만…업황 둔화로 옥석 가리기 될 듯 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=015&aid=0004635165))
+----------
+
+*[업계 소식]*
+
+1. 삼성생명 지분 1.73% 블록딜 처분…2200억원 규모 [4] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=277&aid=0005009593))
 
 ----------
 
 *[헬스케어 소식]*
 
-1. ‘분사’ 앞둔 GE헬스케어, AI 기반 영상솔루션 대거 공개 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=105&oid=293&aid=0000037149))
+1. [과기정통 뉴스] 무보, ESG 시범사업 참여 우수 기업에 무역보험 인센티브 제공 外 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=082&aid=0001130310))
 
-2. 시의회, 이번엔 오세훈표 안심소득 등 예산 전액 ‘삭감’ [1] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=005&aid=0001488314))
+2. 금감원, 하나은행 사모펀드 제재심 또 결론 못내…추후 속개 [2] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=031&aid=0000640186))
 
-3. 전남대 한의정 박사, 여성과총 미래인재상 수상 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=002&aid=0002221444))
+3. “낮춰줄 줄 알았는데…” 금감원, 하나銀 제재 결론 또 못내 [6] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=018&aid=0005099196))
 
-4. 퀄컴 ‘올웨이즈 온 AI’…내년 스마트폰 성능 제한 푼다 [2021 퀄컴서밋] [1] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=105&oid=031&aid=0000639869))
+4. 금감원, "하나은행 제재심 추후 결론" [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=014&aid=0004749681))
 
-5. 캠코, 사업재편기업 자산매입 시범사업 실시 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=079&aid=0003581516))
+5. 금감원, 하나은행 제재심 결론 못내...추후 속개 [0] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=123&aid=0002261172))
 
-6. 퀄컴 "스냅드래곤 8, CPU·GPU·AI 성능 모두 향상" [8] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=105&oid=092&aid=0002240907))
+6. 금감원, 하나은행 제재심 결론 못내…"추후 속개" [2] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=277&aid=0005009598))
+
+7. '사모펀드 사태' 하나은행 제재심 결론 또 못내... 금감원 "추후 속개" [2] ([Link](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=469&aid=0000644662))
 
